@@ -2,862 +2,511 @@
   {
     "název": { "cs": "Ondrova lípa II" },
     "poznámka": { "cs": "V obci u čp. 148" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.084750184163962, 49.16029474178546]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.084750184163962, 49.16029474178546] }
+    }
   },
   {
     "název": { "cs": "Helštýnské lípy" },
     "poznámka": {
       "cs": "U pomníku na vrcholu kopce Helštýn, severovýchodně od města na vrcholu Helštýna"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Peškova lípa" },
     "poznámka": { "cs": "V zahradě u vjezdu do usedlosti čp. 89" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.93927306965121, 49.23684428988138]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.93927306965121, 49.23684428988138] }
+    }
   },
   {
     "název": { "cs": "Kachtíkovy lípy" },
     "poznámka": { "cs": "Ve dvoře památkově chráněné usedlosti Hajnušov" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.86964804850724, 49.356604646843984],
           [17.86980580438522, 49.35670024592006]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Lípy u Sládků" },
     "poznámka": {
       "cs": "Na rozhraní polní cesty a louky v lokalitě Semetín \"Sládci"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.954307543038556, 49.33937752488955],
           [17.954307543038556, 49.339113722004704]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Lípa u solaneckého fojtství 2" },
     "poznámka": {
       "cs": "Na travnatém pozemku mezi dvěma zpevněnými příjezdovými cestami cca 45 m od bývalého fojtství"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.223785550238308, 49.423641164267885]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.223785550238308, 49.423641164267885] }
+    }
   },
   {
     "název": { "cs": "Lípy u kostela ve Zděchově" },
     "poznámka": { "cs": "V obci před vstupem do kostela" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [18.07829699912939, 49.26199779499361],
           [18.07833028463366, 49.26191400690292]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Pivodův tis v Brňově" },
     "poznámka": {
       "cs": "Na jižním okraji obce, vysadil původní majitel pozemku p. Pivoda"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Dub v Brankách" },
     "poznámka": {
       "cs": "Východně od cesty na Dolní dvůr, v lokalitě \"Dolní lůky\", na břehu potoka Loučky "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.923254134381875, 49.462997204415664]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.923254134381875, 49.462997204415664] }
+    }
   },
   {
     "název": { "cs": "Dub v Kunovicích" },
     "poznámka": { "cs": "V areálu nádražní stanice Kunovice-Loučka" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.820224206520397, 49.44090505069624]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.820224206520397, 49.44090505069624] }
+    }
   },
   {
     "název": { "cs": "Lípa ve Valašském Meziříčí" },
     "poznámka": { "cs": "V ulici Vsetínské, nad náměstím" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.97390971999143, 49.47098508625253]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.97390971999143, 49.47098508625253] }
+    }
   },
   {
     "název": { "cs": "Dub v Brankách" },
     "poznámka": { "cs": "V areálu nádraží" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.908152804508997, 49.459748875459134]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.908152804508997, 49.459748875459134] }
+    }
   },
   {
     "název": { "cs": "Buk lesní v Lešné" },
     "poznámka": { "cs": "U kostela ve svahu" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.93282391845361, 49.51947372544999]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.93282391845361, 49.51947372544999] }
+    }
   },
   {
     "název": { "cs": "Dub v Jasenici" },
     "poznámka": { "cs": "Na jižním okraji obce u čp. 32" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.967515682502, 49.51943304316699]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.967515682502, 49.51943304316699] }
+    }
   },
   {
     "název": { "cs": "Dub ČSOP" },
     "poznámka": {
       "cs": "Na okraji lesního porostu, na mírném jižním svahu v lokalitě \"U Matošků"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.010920895640812, 49.367598263417484]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.010920895640812, 49.367598263417484] }
+    }
   },
   {
     "název": { "cs": "Turpišův dub" },
     "poznámka": {
       "cs": "Na severní straně silnice Vsetín-Jablůňka, před benzinovou stanicí Bobrky"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.970455331408505, 49.36385844066091]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.970455331408505, 49.36385844066091] }
+    }
   },
   {
     "název": { "cs": "Žídkův buk" },
     "poznámka": { "cs": "Na louce za obcí Lužná v lokalitě \"Vráblovy paseky" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.010878020112887, 49.22856351853296]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.010878020112887, 49.22856351853296] }
+    }
   },
   {
     "název": { "cs": "Babyka za humny v Rokytnici" },
     "poznámka": {
       "cs": "Na severovýchodním okraji obce, na rozhraní polní cesty a louky, lokalita Bečevná"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.99419920863529, 49.332147651752344]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.99419920863529, 49.332147651752344] }
+    }
   },
   {
     "název": { "cs": "Kobzova lípa" },
     "poznámka": { "cs": "V obci u usedlostí čp. 67, 76, 77 na kopci" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.12512972341619, 49.20782607304982]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.12512972341619, 49.20782607304982] }
+    }
   },
   {
     "název": { "cs": "Lípa srdčitá u pomníku popravených partyzánů" },
     "poznámka": { "cs": "u pomníku" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.094119681118517, 49.4642585166035]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.094119681118517, 49.4642585166035] }
+    }
   },
   {
     "název": { "cs": "Liptálský tis" },
     "poznámka": {
       "cs": "V lesním porostu 605 D3, naproti nemovitosti u Porubů, v údolí V Hlubokém, mezi k.ú. Lhota a Liptál"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.922740427472714, 49.319875769522305]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.922740427472714, 49.319875769522305] }
+    }
   },
   {
     "název": { "cs": "Tis červený" },
     "poznámka": {
       "cs": "V obci u hlavní křižovatky, v zahradě u čp. 161, poblíž kaple"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.00194712305907, 49.465133814648105]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.00194712305907, 49.465133814648105] }
+    }
   },
   {
     "název": { "cs": "Lačnovská babyka" },
     "poznámka": {
       "cs": "Na konci sadu východně od obce, vpravo od silnice Horní Lideč-Lačnov"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.02399454821828, 49.17988105691264]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.02399454821828, 49.17988105691264] }
+    }
   },
   {
     "název": { "cs": "Lípa v Lázech" },
     "poznámka": {
       "cs": "V centru obce u hlavní silnice na rozhraní dvou pozemků u čp. 32 a 2"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.871463650062463, 49.41870103698182]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.871463650062463, 49.41870103698182] }
+    }
   },
   {
     "název": { "cs": "Koláčkův tis" },
     "poznámka": { "cs": "V obci u čp. 181" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.09092474889641, 49.48277201964155]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.09092474889641, 49.48277201964155] }
+    }
   },
   {
     "název": { "cs": "Študlovská lípa" },
     "poznámka": { "cs": "V obci při hlavní silnici naproti čp. 30" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.085806681018997, 49.16032098841965]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.085806681018997, 49.16032098841965] }
+    }
   },
   {
     "název": { "cs": "Horákův dub" },
     "poznámka": { "cs": "Na okraji pole u potoka jižně od točny MHD" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.93929931628541, 49.461293777470054]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.93929931628541, 49.461293777470054] }
+    }
   },
   {
     "název": { "cs": "Dub na Jehličné" },
     "poznámka": { "cs": "U restaurace Jehličná pod lesem" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.008727030778044, 49.49620942337568]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.008727030778044, 49.49620942337568] }
+    }
   },
   {
     "název": { "cs": "Hornolidečský dub" },
     "poznámka": { "cs": "v obci" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.064762568400067, 49.17755681755559]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.064762568400067, 49.17755681755559] }
+    }
   },
   {
     "název": { "cs": "Lípy v Hrachovci" },
     "poznámka": {
       "cs": "na západním okraji obce při výjezdu na Valašské Meziříčí mezi lipami je křížek"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lípy u kapličky" },
     "poznámka": {
       "cs": "U kapličky na okraji obce, lípa s pořadovým číslem 1 byla vyňata z ochrany pro napadení dřevomorem kořenovým."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.695583864480394, 48.90805128443292]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.695583864480394, 48.90805128443292] }
+    }
   },
   {
     "název": { "cs": "Buk u Zámečku" },
     "poznámka": { "cs": "Před budovou bývalého zámečku v obci Strání" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.708034618135546, 48.90262291153031]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.708034618135546, 48.90262291153031] }
+    }
   },
   {
     "název": { "cs": "Lípy u sv. Jána" },
     "poznámka": {
       "cs": "Na okraji účelové komunikace vedle kříže z r. 1733, cca 1,5 km severozápadně od obce Stříbrnice, na rozhraní katastru Boršice u Buchlovic a katastru Stříbrnice"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.32084129830744, 49.07113295643189],
           [17.320800616024425, 49.071175296913786],
           [17.320745929511116, 49.07114321769421]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Duby pod táborem" },
     "poznámka": {
       "cs": "Při okraji místní komunikace, cca 2,5 km západně od vodní nádrže Nad Sovínem, v areálu bývalého dětského tábora Družba, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lípa na rozcestí" },
     "poznámka": {
       "cs": "Na travnatém pozemku vedle kříže z r. 1907, u křižovatky komunikací směrem na Tupesy a Břestek"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Skalická oskeruše" },
     "poznámka": {
       "cs": "Uvnitř neudržovaného jabloňového sadu, vpravo od silnice směrem na Medlovice, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Malíkova lípa" },
     "poznámka": {
       "cs": "Na travnatém pozemku severně od obce, v údolí toku Kyjovky, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Bojkovský dub nad kostelem" },
     "poznámka": {
       "cs": "Ve svahu nad městem u hřbitova, pamětník vpádu Turků a Kumánů"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.812928537375637, 49.04159833644332]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.812928537375637, 49.04159833644332] }
+    }
   },
   {
     "název": { "cs": "Mařatická oskeruše" },
     "poznámka": { "cs": "Uprostřed lokality  Mařatické vinohrady" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Buky na Hrušové" },
     "poznámka": {
       "cs": "V lesním porostu, v těsné blízkosti kóty 389 vrchu Hrušová, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Platany u nádraží" },
     "poznámka": {
       "cs": "V městském parku u vlakového nádraží, podél ulice Nádražní"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Platany ve Smetanových sadech" },
     "poznámka": {
       "cs": "Na exponovaném místě v městském parku Smetanovy sady, obvod kmenů: od 320 cm do 387 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Sekvojovec obrovský" },
     "poznámka": {
       "cs": "Na travnatém pozemku severozápadně od obce Břestek, v místní části Chabaně"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Buk lesní na Hrušové" },
     "poznámka": {
       "cs": "V lesním porostu, v těsné blízkosti kóty 389 vrchu Hrušová, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.378754062651648, 49.14008932776981]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.378754062651648, 49.14008932776981] }
+    }
   },
   {
     "název": { "cs": "Dub letní" },
     "poznámka": {
       "cs": "V údolí toku Dlouhé řeky, na okraji místní komunikace cca 2 km západně od vodní nádrže Nad Sovínem, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Dub zimní" },
     "poznámka": {
       "cs": "Při okraji zpevněné lesní cesty, cca 2 km jihovýchodně od hájenky Na Pile, v údolí toku Dlouhé řeky, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Buk lesní" },
     "poznámka": {
       "cs": "Při okraji zpevnění lesní cesty, cca 1,2 km severně od hájenky Na pile, v údolí toku Dlouhé řeky, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Tomeškův dub" },
     "poznámka": {
       "cs": "Na okraji zpevněné lesní cesty, cca 0,5 km jihozápadně od hájenky Zikmundov, přírodní park Chřiby"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Rapantova lípa" },
     "poznámka": { "cs": "Cca 100 m severozápadně od samoty čp. 30" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.843426208609312, 48.935660161012954]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.843426208609312, 48.935660161012954] }
+    }
   },
   {
     "název": { "cs": "Hrušeň obecná" },
     "poznámka": {
       "cs": "Na louce jižně od obce Míkovice na úbočí severozápadní části lesního komplexu Hluboček v blízkosti katastrální hranice s k.ú. Hluk"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Topol u Volenova" },
     "poznámka": {
       "cs": "U vodoteče Hradecký járek, 1 km jihozápadně od obce Suchá Loz"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.681202956706958, 48.96405451305848]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.681202956706958, 48.96405451305848] }
+    }
   },
   {
     "název": { "cs": "Janův buk" },
     "poznámka": { "cs": "U samoty asi 400 m severozápadně od kóty Příslop" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.843378487456224, 48.954585009878436]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.843378487456224, 48.954585009878436] }
+    }
   },
   {
     "název": { "cs": "Františkův břek" },
     "poznámka": { "cs": "U samoty asi 400 m severozápadně od kóty Příslop" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.843291721723336, 48.95480271658537]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.843291721723336, 48.95480271658537] }
+    }
   },
   {
     "název": { "cs": "Dub u Kamenné búdy" },
     "poznámka": {
       "cs": "U Kamenné boudy při cestě na Velkou Javořinu, asi 3 km od levostranné odbočky silnice Strání-Slavkov"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.659207544744657, 48.89223444631008]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.659207544744657, 48.89223444631008] }
+    }
   },
   {
     "název": { "cs": "Lípa u Kolelače" },
     "poznámka": {
       "cs": "Na levém okraji silnice směrem na Slavičín, cca 3 km za obcí "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.863533447331786, 49.05506993041353]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.863533447331786, 49.05506993041353] }
+    }
   },
   {
     "název": { "cs": "Buk na náměstí" },
     "poznámka": { "cs": "Na náměstí Míru v Hulíně" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.46716887802403, 49.31684868824451]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.46716887802403, 49.31684868824451] }
+    }
   },
   {
     "název": { "cs": "Dub v Kostelní ulici" },
     "poznámka": { "cs": "Na konci Kostelní ulice" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.4685281603489, 49.31216854750705]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.4685281603489, 49.31216854750705] }
+    }
   },
   {
     "název": { "cs": "Hrušeň pod Javorníkem" },
     "poznámka": {
       "cs": "Na severovýchodním úpatí Kelčského Javorníku, cca 1000 m jihozápadně od obce Podhradní Lhota"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.781363985989255, 49.416936364501645]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.781363985989255, 49.416936364501645] }
+    }
   },
   {
     "název": { "cs": "Jilmy pod Ovčárnou" },
     "poznámka": { "cs": "Pod vrcholem Hostýna, 100 m od hostince Ovčárna " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.696824301852796, 49.37763338218631],
           [17.696992285769387, 49.37754661645342],
@@ -866,383 +515,227 @@
           [17.696737536119908, 49.377513330949135]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Dub pod Dubíčkem" },
     "poznámka": {
       "cs": "300 m severně od okraje Bystřice, na jižním okraji lesního porostu Dubíček"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.677923990192415, 49.40844348130191]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.677923990192415, 49.40844348130191] }
+    }
   },
   {
     "název": { "cs": "Regerova hrušeň pod Bártovcem" },
     "poznámka": {
       "cs": "V polích 400 m severozápadně od silnice Bystřice pod Hostýnem-Bílavsko, 1,75 km před západním okrajem Bystřice "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.651143795966103, 49.39655131866403]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.651143795966103, 49.39655131866403] }
+    }
   },
   {
     "název": { "cs": "Smrk pod Sochovou" },
     "poznámka": { "cs": "Na severní hranici přírodní rezervace Sochová" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.93468485826941, 49.39496170084502]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.93468485826941, 49.39496170084502] }
+    }
   },
   {
     "název": { "cs": "Platan u průmyslové školy" },
     "poznámka": { "cs": "Na travnatém pruhu u komunikace Bystřice-Holešov" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.66545365516389, 49.39922841779556]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.66545365516389, 49.39922841779556] }
+    }
   },
   {
     "název": { "cs": "Olše na Kamenci" },
     "poznámka": { "cs": "Na nábřeží toku Bystřičky, ve střední části města" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.678396285015364, 49.39974992483021]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.678396285015364, 49.39974992483021] }
+    }
   },
   {
     "název": { "cs": "Těšanská lípa" },
     "poznámka": {
       "cs": "Severně od obce u kříže s letopočtem 1851, při vyústění polní cesty na silnici Velké Těšany-Těšnovice, Strom Kroměřížska 2003,  "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.445137890150892, 49.2536384282789]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.445137890150892, 49.2536384282789] }
+    }
   },
   {
     "název": { "cs": "Lípa U Kapličky" },
     "poznámka": {
       "cs": "Na začátku obce po levé straně silnice z Holešova, na travnatém prostranství u kapličky  "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.604115854168295, 49.33419423178352]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.604115854168295, 49.33419423178352] }
+    }
   },
   {
     "název": { "cs": "Lípa na Pomezí" },
     "poznámka": {
       "cs": "V obci na travnatém pásu u silnice z Holešova do Bystřice pod Hostýnem"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.603332947277817, 49.34232421906048]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.603332947277817, 49.34232421906048] }
+    }
   },
   {
     "název": { "cs": "Jilm u trati" },
     "poznámka": {
       "cs": "U starého autobusového nádraží, v blízkosti křížení železniční vlečky s Mlýnskou ulicí"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.667848400783807, 49.39533851609695]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.667848400783807, 49.39533851609695] }
+    }
   },
   {
     "název": { "cs": "Dub Na Záhonkách" },
     "poznámka": {
       "cs": "U silnice Loukov-Libosváry, cca 700 m severozápadně od Loukova a 500 m jihovýchodně od Libosvár, asi hraniční strom"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.71885066610157, 49.428425264617466]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.71885066610157, 49.428425264617466] }
+    }
   },
   {
     "název": { "cs": "Planá hrušeň na hradisku" },
     "poznámka": {
       "cs": "Na valech bývalého hradiska, severozápadně od obce Dobrotice - místní části Holešova"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.602432431746333, 49.34575947801128]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.602432431746333, 49.34575947801128] }
+    }
   },
   {
     "název": { "cs": "Jedle pod Bukovinou" },
     "poznámka": {
       "cs": "V lese severně od obce Rusava u potoka, 410 m západně od kóty Skalný a 950 m východně od vrcholu Bukoviny"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.707965495973422, 49.36553888544071]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.707965495973422, 49.36553888544071] }
+    }
   },
   {
     "název": { "cs": "Smrk" },
     "poznámka": { "cs": "u zahrádkářské kolonie" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Dub v Kvasicích" },
     "poznámka": {
       "cs": "U silnice na Kroměříž, poblíž odbočky k Proskovcovu parku"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.46825356115571, 49.244685745154875]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.46825356115571, 49.244685745154875] }
+    }
   },
   {
     "název": { "cs": "Lípa u Roštína" },
     "poznámka": { "cs": "Jižně od Roštína směrem na Chřiby" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.287507150546862, 49.17936414208153]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.287507150546862, 49.17936414208153] }
+    }
   },
   {
     "název": { "cs": "Dub u cukrovaru" },
     "poznámka": {
       "cs": "V areálu Proskovcovy vily a starého cukrovaru v Kvasicích"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.465766217217524, 49.245250085641295]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.465766217217524, 49.245250085641295] }
+    }
   },
   {
     "název": { "cs": "Jeřáb oskeruše" },
     "poznámka": { "cs": "V mírném svahu u cesty v lokalitě zvané Kozojedsko" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.14950540321934, 49.210138709617475]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.14950540321934, 49.210138709617475] }
+    }
   },
   {
     "název": { "cs": "Tis červený" },
     "poznámka": { "cs": "V severozápadní části zámeckého parku" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.67565615754236, 49.404041101743154]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.67565615754236, 49.404041101743154] }
+    }
   },
   {
     "název": { "cs": "Šácholan zašpičatělý" },
     "poznámka": { "cs": "V jihovýchodní části zámeckého parku" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.673473146949338, 49.401842588311276]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.673473146949338, 49.401842588311276] }
+    }
   },
   {
     "název": { "cs": "Lipová alej podél hřiště a koupaliště" },
     "poznámka": {
       "cs": "V parkové části s fotbalovým hřištěm a koupalištěm vlevo od silnice směrem na Tlumačov"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lipo-jírovcová alej podél silnice k Novému dvoru" },
     "poznámka": { "cs": "Podél silnice z Kvasic k Novému dvoru" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Jasanová alej za býv. mostem" },
     "poznámka": {
       "cs": "U staré silnice na Tlumačov za bývalým mostem v Kvasicích"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lipky na Floriánku" },
     "poznámka": {
       "cs": "U kapličky sv. Floriana na kopci nad městem, obvod kmenů 205 cm, 215 cm, 230 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.16040548884511, 49.10954110898614],
           [17.1605185012122, 49.10955554463495],
           [17.160446171128125, 49.1095033860723]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Lipová alej v Komárně" },
     "poznámka": {
       "cs": "Podél silnice od mostu v Komárně směrem na Osíčko, v r. 2007 na pravé straně 1 lípa skácena - zrušovací rozhodnutí nedoručeno"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Hostýnské stromy" },
     "poznámka": { "cs": "Areál temene Hostýna " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.699813243578266, 49.37850653569502],
           [17.70436769596115, 49.379766526216905],
@@ -1260,713 +753,409 @@
           [17.69810346913773, 49.37725437368946]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Dvě jírovcové aleje od zámku k lesu a ke Svárovu" },
     "poznámka": {
       "cs": "Aleje podél dvou cest od zámku k lesu a ke dvoru Svárov, část jasany a ořešáky"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.239016451022348, 49.2088560541117]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.239016451022348, 49.2088560541117] }
+    }
   },
   {
     "název": { "cs": "Tis v Morkovicích" },
     "poznámka": { "cs": "V zahradě - bývalý areál letního kina" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.210682155050353, 49.248180701513]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.210682155050353, 49.248180701513] }
+    }
   },
   {
     "název": { "cs": "Lípy kolem kostela" },
     "poznámka": { "cs": "Kolem zídky kostela" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Platanová alej u zámku" },
     "poznámka": {
       "cs": "Podél říčky Bystřičky a silnice od zámku k mostu, obvod kmenů od 250 cm do 340 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lipová alej na Světlé" },
     "poznámka": {
       "cs": "Po obou stranách silnice Zdounky-Bunč, od statku Světlá k lesu v délce asi 1000 m, zbytek barokního ozelenění silnic, obvod kmenů od 260 cm do 370 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lipky svobody" },
     "poznámka": {
       "cs": "Uprostřed pastviny na svahu vrchu Světlá, po pravé straně silnice na Bunč, obvod kmenů od 150 cm do 290 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Platany na hřbitově" },
     "poznámka": { "cs": "Na hřbitově v urnovém háji " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Jedle pod Čerňavou" },
     "poznámka": {
       "cs": "Součást lesního porostu, ve svahu cca 10 m vlevo od lesní cesty z Tesáku do Rajchovic a cca 200 m od Theodorova pramene směrem k Rajnochovicům"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.78732328217693, 49.3822187800696]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.78732328217693, 49.3822187800696] }
+    }
   },
   {
     "název": { "cs": "Jilm u hájenky" },
     "poznámka": { "cs": "V Rusavském údolí, u silnice pod bývalou myslivnou" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.689631950626488, 49.341344511712215]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.689631950626488, 49.341344511712215] }
+    }
   },
   {
     "název": { "cs": "Lípa u Floriána" },
     "poznámka": {
       "cs": "Vlevo u silnice z Holešova do Žeranovic u sochy sv. Floriana s datem 1760"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.60270903257678, 49.30012291640323]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.60270903257678, 49.30012291640323] }
+    }
   },
   {
     "název": { "cs": "Čechova lípa" },
     "poznámka": {
       "cs": "Před kostelem, spojená s pobytem Svatopluka Čecha v obci r. 1881"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Lípa ve Vítonicích" },
     "poznámka": { "cs": "Za zahradou domu čp. 16" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.695170390533388, 49.44666030786444]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.695170390533388, 49.44666030786444] }
+    }
   },
   {
     "název": { "cs": "Platan ve Věžeckém parku" },
     "poznámka": { "cs": "V zámeckém parku ve Věžkách" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.283453307406123, 49.28538348965197]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.283453307406123, 49.28538348965197] }
+    }
   },
   {
     "název": { "cs": "Lípa u hřbitova v Uhřicích" },
     "poznámka": { "cs": "Před hřbitovem u pomníku Panny Marie z r. 1747 " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.35396012604752, 49.51811636449454]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.35396012604752, 49.51811636449454] }
+    }
   },
   {
     "název": { "cs": "Červený buk" },
     "poznámka": { "cs": "V zámeckém parku poblíž budovy" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.210030321914747, 49.143230816083836]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.210030321914747, 49.143230816083836] }
+    }
   },
   {
     "název": { "cs": "Dřín u Vrbů" },
     "poznámka": {
       "cs": "Na zahradě u domu čp. 1, vlevo od silnice na kraji obce směrem od Kroměříže "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.21448663095506, 49.144724720318955]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.21448663095506, 49.144724720318955] }
+    }
   },
   {
     "název": { "cs": "Ctiborův dub" },
     "poznámka": {
       "cs": "Východně od zříceniny hradu Štřílky, zůstalo jen ztrouchnivělé a rozlomené torzo, pověst o Ctiborovi "
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.23523657624732, 49.13121503711461]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.23523657624732, 49.13121503711461] }
+    }
   },
   {
     "název": { "cs": "Jasan v parku" },
     "poznámka": { "cs": "V zámeckém parku v Litenčicích" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.79010176759188, 49.32140578309993]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.79010176759188, 49.32140578309993] }
+    }
   },
   {
     "název": { "cs": "Ořešák černý v zámeckém parku" },
     "poznámka": { "cs": "V zámeckém parku v Kvasicích" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.47347105905732, 49.24528337114558]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.47347105905732, 49.24528337114558] }
+    }
   },
   {
     "název": { "cs": "Tis v Podzámecké zahradě" },
     "poznámka": { "cs": "V Podzámecké zahradě před Pompejskou kolonádou" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.396936813391992, 49.30543687324842]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.396936813391992, 49.30543687324842] }
+    }
   },
   {
     "název": { "cs": "Platan v Podzámecké zahradě" },
     "poznámka": {
       "cs": "Na louce v zadní části Podzámecké zahrady, po vichřici v srpnu 2001 silně poškozen (třetina stromu pryč)"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.39165803830397, 49.30734328301099]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.39165803830397, 49.30734328301099] }
+    }
   },
   {
     "název": { "cs": "Liliovník v Podzámecké zahradě" },
     "poznámka": {
       "cs": "V Podzámecké zahradě blízko Chotkova rybníka a skupiny platanů"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.396954456962757, 49.30257818112184]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.396954456962757, 49.30257818112184] }
+    }
   },
   {
     "název": { "cs": "Tis v zámeckém parku" },
     "poznámka": { "cs": "U vchodu do zámeckého parku " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.16426282480636, 49.10443509658209]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.16426282480636, 49.10443509658209] }
+    }
   },
   {
     "název": { "cs": "Dub pod Valaškou" },
     "poznámka": {
       "cs": "Vpravo od silnice z Chvalšova na Tesák, pod osadou Valaška"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.73696065533932, 49.37309459006752]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.73696065533932, 49.37309459006752] }
+    }
   },
   {
     "název": { "cs": "Turecká líska ve Smetanových sadech" },
     "poznámka": { "cs": "Ve Smetanových sadech, náměstí u školy" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.581103456897186, 49.33110174132495]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.581103456897186, 49.33110174132495] }
+    }
   },
   {
     "název": { "cs": "Cvrčovická planá hrušeň" },
     "poznámka": {
       "cs": "Severně od obce na mezi v poli mezi ovocnými stromy a keři"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.3379206730686, 49.22969234547207]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.3379206730686, 49.22969234547207] }
+    }
   },
   {
     "název": { "cs": "Osika v zámeckém parku" },
     "poznámka": {
       "cs": "V zámeckém parku vlevo od rybníčku, Populus alba?, uvedena jako Populus tremula?, evidenční štítek č. 306(2001)"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.675354893024487, 49.40282612660767]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.675354893024487, 49.40282612660767] }
+    }
   },
   {
     "název": { "cs": "Lípy u kostela v Jasenné" },
     "poznámka": { "cs": "Před vchodem do kostela a v korytě potoka Jasénka" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.8954621995728, 49.25160364096006],
           [17.89580853743845, 49.25149360623518],
           [17.895430120353222, 49.25150804188399]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Štefkova oskeruše" },
     "poznámka": {
       "cs": "Na okraji polní cesty a louky poblíž usedlosti čp. 262 v Zádveřicích Rakové"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.81081110303281, 49.20175032484621]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.81081110303281, 49.20175032484621] }
+    }
   },
   {
     "název": { "cs": "Dub letní u Holíků" },
     "poznámka": { "cs": "V zahradě a na okraji městské účelové komunikace" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.814453610372187, 49.24891439733647]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.814453610372187, 49.24891439733647] }
+    }
   },
   {
     "název": { "cs": "Lípy u Jána" },
     "poznámka": { "cs": "Na okraji lesa" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Oskeruše ve Zlíně" },
     "poznámka": { "cs": "V ulici Na výsluní, v zahradě ve svahu" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.67350322453166, 49.23330002942338]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.67350322453166, 49.23330002942338] }
+    }
   },
   {
     "název": { "cs": "Lípa u Boží muky" },
     "poznámka": { "cs": "V centru obce nedaleko obecního úřadu, u kapličky" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.920468683606703, 49.067395883234134]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.920468683606703, 49.067395883234134] }
+    }
   },
   {
     "název": { "cs": "Lípa v Šanově" },
     "poznámka": {
       "cs": "Na pravém břehu potoka Rokyténka v centru obce Šanov nedaleko obecního úřadu"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.89940590146298, 49.046967195016585]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.89940590146298, 49.046967195016585] }
+    }
   },
   {
     "název": { "cs": "Návojský dub" },
     "poznámka": { "cs": "V obci u silnice směrem na Brumov " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.047827125617257, 49.10424526148453]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.047827125617257, 49.10424526148453] }
+    }
   },
   {
     "název": { "cs": "Pechancův dub" },
     "poznámka": {
       "cs": "Na okraji lesa, poblíž sjezdové trasy na Pechancových loukách"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.00755491049399, 49.12702627989302]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.00755491049399, 49.12702627989302] }
+    }
   },
   {
     "název": { "cs": "Kalitův dub" },
     "poznámka": { "cs": "Poblíž středu obce, na hranici mezi čp. 57 a 3" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.987692612072866, 49.1328248510649]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.987692612072866, 49.1328248510649] }
+    }
   },
   {
     "název": { "cs": "Lípa na Malenovickém náměstí" },
     "poznámka": { "cs": "Na Malenovickém náměstí, nad kostelem" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.59634041472273, 49.20564672033792]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.59634041472273, 49.20564672033792] }
+    }
   },
   {
     "název": { "cs": "Dub na Nové ulici" },
     "poznámka": {
       "cs": "Na křižovatce ulic Nová a Havlíčkova, u božích muk v místní části Malenovice"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.608277090591745, 49.209367774940084]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.608277090591745, 49.209367774940084] }
+    }
   },
   {
     "název": { "cs": "Moruše - ul. Karoliny Světlé" },
     "poznámka": {
       "cs": "Na křižovatce silnice I/49 a ulice K. Světlé, proti pekárnám"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.636466913779888, 49.218692873171314]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.636466913779888, 49.218692873171314] }
+    }
   },
   {
     "název": { "cs": "Jilm vaz - ul. Lorencova" },
     "poznámka": { "cs": "V centru Zlína" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.673779825362107, 49.22710560473339]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.673779825362107, 49.22710560473339] }
+    }
   },
   {
     "název": { "cs": "Hruška na Pasíčkách" },
     "poznámka": { "cs": "V jižní části obce, v zahrádkářské osadě Pasíčka" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.60634742367188, 49.199405197898564]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.60634742367188, 49.199405197898564] }
+    }
   },
   {
     "název": { "cs": "Lípa u Malenovického hřbitova" },
     "poznámka": { "cs": "Na západním okraji obce, před místním hřbitovem" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.57601184384998, 49.202748495847466]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.57601184384998, 49.202748495847466] }
+    }
   },
   {
     "název": { "cs": "Lípa na ul. Sokolská" },
     "poznámka": { "cs": "V zahradě přiléhající k areálu zlínské sokolovny" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.676768767087577, 49.23289314931716]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.676768767087577, 49.23289314931716] }
+    }
   },
   {
     "název": { "cs": "Lípa u kaple sv. Antonína" },
     "poznámka": { "cs": "Na návrší severně od obce, u kaple sv. Antonína" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.714791462422955, 49.23701106751326]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.714791462422955, 49.23701106751326] }
+    }
   },
   {
     "název": { "cs": "Dub nad hostincem v Loukách" },
     "poznámka": {
       "cs": "Na jižním svahu nad hostincem v místní části města Zlína v Loukách"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.614501541437964, 49.220572617609214]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.614501541437964, 49.220572617609214] }
+    }
   },
   {
     "název": { "cs": "Štípa u kostela" },
     "poznámka": {
       "cs": "Kolem kostela Narození Panny Marie ve Štípě, v r. 2008 zrušena ochrana 1 stromu"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.7178693210501, 49.262943987964796],
           [17.71692112644165, 49.263190895806254],
@@ -1974,203 +1163,120 @@
           [17.7178693210501, 49.26296163153557]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Oskeruše na Salaši" },
     "poznámka": {
       "cs": "V zahradě u čp. 16, poblíž hlavní komunikace na Bohuslavice"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.896476012507566, 49.19395311482693]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.896476012507566, 49.19395311482693] }
+    }
   },
   {
     "název": { "cs": "Lípa u Sokolovny" },
     "poznámka": {
       "cs": "Poblíž kostela v místní části Zlína Želechovicích, proti sokolovně"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.751212833585374, 49.21733120461585]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.751212833585374, 49.21733120461585] }
+    }
   },
   {
     "název": { "cs": "Dub na Kudlovských pasekách" },
     "poznámka": {
       "cs": "Na návrší Na Pinduli, v městské části Kudlovské paseky u čp. 57 poblíž silnice ze Zlína na Březůvky"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.699310544503792, 49.18628923806292]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.699310544503792, 49.18628923806292] }
+    }
   },
   {
     "název": { "cs": "Dub u Komárova" },
     "poznámka": {
       "cs": "Na okraji lesa, v nejvyšším místě severovýchodně nad obcí"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.579420034475223, 49.1555668798949]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.579420034475223, 49.1555668798949] }
+    }
   },
   {
     "název": { "cs": "Lípa u křížku" },
     "poznámka": {
       "cs": "Cca 300 m severně od Napajedel, u silnice směr Otrokovice-Kvítkovice"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.52785465186817, 49.18435429723612]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.52785465186817, 49.18435429723612] }
+    }
   },
   {
     "název": { "cs": "Polní hrušeň" },
     "poznámka": {
       "cs": "a severovýchod od města, na okraji polní cesty mimo městskou zástavbu"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.866805094677357, 49.22164961044579]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.866805094677357, 49.22164961044579] }
+    }
   },
   {
     "název": { "cs": "Růžová lípa" },
     "poznámka": { "cs": "V centru města, v ulici Růžová" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Kalendův dub" },
     "poznámka": {
       "cs": "V lesním porostu v údolí menšího přítoku potoka Lutoninky"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Lípa u kapličky ve Žlutavě" },
     "poznámka": { "cs": "U kapličky, u domu čp. 250 " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.48531094648136, 49.202480113487105]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.48531094648136, 49.202480113487105] }
+    }
   },
   {
     "název": { "cs": "Jírovec maďal u kostela ve Fryštáku" },
     "poznámka": { "cs": "U kostela " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.687296809576726, 49.284962173896936]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.687296809576726, 49.284962173896936] }
+    }
   },
   {
     "název": { "cs": "Lípa u domu čp. 8 v Halenkovicích" },
     "poznámka": { "cs": "Na návsi u domu čp. 8" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.47371016677329, 49.1654603347743]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.47371016677329, 49.1654603347743] }
+    }
   },
   {
     "název": { "cs": "Lípa u kamenného kříže" },
     "poznámka": {
       "cs": "Po levé straně silnice Kvítkovice-Malenovice, u kamenného kříže z r. 1761, dříve ve skupině dvou lip, z nichž jedna byla odstraněna z důvodů velmi nepříznivého zdravotního stavu - zrušovací rozhodnutí nedoručeno"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.551302715288774, 49.19954531020577]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.551302715288774, 49.19954531020577] }
+    }
   },
   {
     "název": { "cs": "CHPV - 10 lip u Vizovického šenku" },
     "poznámka": { "cs": "U restaurace Vizovický šenk" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.84995670105023, 49.208179046438794],
           [17.849880731625685, 49.207877781920935],
@@ -2181,23 +1287,15 @@
           [17.849833010472597, 49.20810267388027]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "CHPV - Jalovec v k.ú. Slopné" },
     "poznámka": { "cs": "Na severním okraji obce u čp.39" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.845685649722274, 49.1613221370631]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.845685649722274, 49.1613221370631] }
+    }
   },
   {
     "název": {
@@ -2206,91 +1304,64 @@
     "poznámka": {
       "cs": "Ve skupině stromů u hřbitova, v blízkosti kopce Hradištěk, v minulosti zde stála tvrz"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.909477814369378, 49.17089504615067],
           [17.909311455427964, 49.17055891318174],
           [17.909706317384657, 49.17063288096903]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "4 lípy u kostela" },
     "poznámka": { "cs": "Na jižní straně kostela, vysazeny v r. 1806" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [18.007146016022478, 49.141813317966985],
           [18.007498586277467, 49.14173351759431],
           [18.007370907981812, 49.14176559681389]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "CHPV - 10 lípy u kapličky v Poteči" },
     "poznámka": {
       "cs": "Jihozápadně od obce u kapličky sv. Cyrila a Metoděje, při silnici Poteč-Valašské Klobouky"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Lípy u Janáčů" },
     "poznámka": { "cs": "V centru obce pod památkově chráněnou dřevěnicí" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [18.017381124852914, 49.17897712193287],
           [18.017627302440015, 49.17896268628406]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Jírovec v zámeckém parku" },
     "poznámka": {
       "cs": "V zámeckém parku, u jezírka, pokácen v r. 1995 jako suchý, rozhodnutí o zrušení ochrany nedoručeno"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Jilm v zámeckém parku" },
     "poznámka": {
       "cs": "V zámeckém parku, pokácen v r. 1984 jako suchý (grafioza)"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": {
@@ -2299,495 +1370,293 @@
     "poznámka": {
       "cs": "Kolem pomníku popravených vlastenců ve Valašském Meziříčí"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Radošínská lípa" },
     "poznámka": {
       "cs": "Na okraji lesního pozemku, na rozhraní dvou ekotonů (les a trvalé travní porosty)"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.10225266188959, 49.14193358073047]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.10225266188959, 49.14193358073047] }
+    }
   },
   {
     "název": { "cs": "Památné lípy Růženy Šopové a Karla Vařáka" },
     "poznámka": {
       "cs": "U pomníčku postaveném na památku obyvatel zavražděných gestapem a vypálení osady Vařákovy paseky v r. 1945"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.98888571288551, 49.21090127673856],
           [17.988931796335383, 49.210800075356865]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Lípa u Pitrunů" },
     "poznámka": { "cs": "V centru města před domem čp. 189" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.823963684489396, 49.47815076634698]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.823963684489396, 49.47815076634698] }
+    }
   },
   {
     "název": { "cs": "Lípa pod kostelem" },
     "poznámka": { "cs": "U kostela v Osvětimanech, vedle komunikace pro pěší" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Duby u Kopánky" },
     "poznámka": {
       "cs": "Na okraji lesního porostu, cca 1 km jižně od obce, 100 m od studánky s místním názvem Kopánka, lesní komplex je součástí nadregionálního biocentra \"Hluboček\", obvod kmenů: 462 cm, 489 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.599560183804545, 49.040145952846466],
           [17.599879091893182, 49.04006799734116]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Hruška za kostelem v Prakšicích" },
     "poznámka": {
       "cs": "Za kostelem na okraji obce Prakšice, v blízkosti místní komunikace"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.64021829145263, 49.067721861193924]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.64021829145263, 49.067721861193924] }
+    }
   },
   {
     "název": { "cs": "Pilecká lípa" },
     "poznámka": {
       "cs": "U bývalého Pileckého mlýna, vlevo od silnice směr Uherský Brod-Nivnice, v blízkosti kříž s letopočtem 1807"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.64998489144467, 49.00628083491096]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.64998489144467, 49.00628083491096] }
+    }
   },
   {
     "název": { "cs": "Lípa Vladimíra Šišáka" },
     "poznámka": { "cs": "U pomníku na nábřeží toku Juhyně v Kelči" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.825090256188783, 49.472115700426365]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.825090256188783, 49.472115700426365] }
+    }
   },
   {
     "název": { "cs": "Lípa u Dvora" },
     "poznámka": {
       "cs": "Před budovou bývalého panského dvora v obci Vlachovice"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.940750209968332, 49.12353133771909]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.940750209968332, 49.12353133771909] }
+    }
   },
   {
     "název": { "cs": "Spáčilova oskoruša" },
     "poznámka": {
       "cs": "Na severním svahu lokality Vršek jihovýchodně od obce Pitín"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.85754207192453, 49.03354608464098]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.85754207192453, 49.03354608464098] }
+    }
   },
   {
     "název": { "cs": "Střítežský jasan Na Příčnici" },
     "poznámka": { "cs": "Na okraji obce poblíž hospodářské budovy" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.047800878983058, 49.45802845217076]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.047800878983058, 49.45802845217076] }
+    }
   },
   {
     "název": { "cs": "Liptálský buk" },
     "poznámka": { "cs": "V zámeckém parku v centru obce" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.925599549429716, 49.291140956653415]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.925599549429716, 49.291140956653415] }
+    }
   },
   {
     "název": { "cs": "Liptálský jilm" },
     "poznámka": { "cs": "V zámeckém parku v centru obce" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.926088024381716, 49.29129871253139]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.926088024381716, 49.29129871253139] }
+    }
   },
   {
     "název": { "cs": "Lípa u Kamasů" },
     "poznámka": { "cs": "Na louce pod cestou, lokalita \"Na Ojičné" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.872551956978125, 49.398585656291324]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.872551956978125, 49.398585656291324] }
+    }
   },
   {
     "název": { "cs": "Dub na Prženských pasekách" },
     "poznámka": { "cs": "Ve svahu nad studnou uvnitř areálu bývalé usedlosti" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.925857938419664, 49.398658417793904]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.925857938419664, 49.398658417793904] }
+    }
   },
   {
     "název": { "cs": "Buk nad Bzovou" },
     "poznámka": {
       "cs": "V lese nad cestou směrem na Starý Hrozenkov nedaleko jihozápadní části obce"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.84263792104763, 48.997384005305086]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.84263792104763, 48.997384005305086] }
+    }
   },
   {
     "název": { "cs": "Lípa u Šamáků" },
     "poznámka": { "cs": "na okraji roztroušené zástavby obce Vyškovec" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.85665851512366, 48.93278489862805]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.85665851512366, 48.93278489862805] }
+    }
   },
   {
     "název": { "cs": "Klen ve Vlčí" },
     "poznámka": {
       "cs": "na okraji remízku na prudším svahu v okrajové části roztroušené zástavby obce Vyškovec"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.85655319503307, 48.93023640440007]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.85655319503307, 48.93023640440007] }
+    }
   },
   {
     "název": { "cs": "Jedle u Baribala" },
     "poznámka": {
       "cs": "Na hřebeni Královce okraj CHKO Bílé Karpaty, obvod kmene: 261 cm, 192 cm, 178 cm, výška 24 m"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [18.078137471893907, 49.14716795241775],
           [18.078256316846375, 49.14721082794568],
           [18.07823867327561, 49.14722847151645]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Lípa Jaruška v Lipině" },
     "poznámka": {
       "cs": "V zahradě za hospodářským objektem nedaleko středu obce Lipina, poblíž místní komunikace"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.985703985391783, 49.131347330755666]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.985703985391783, 49.131347330755666] }
+    }
   },
   {
     "název": { "cs": "Dub na ulici K. Čapka" },
     "poznámka": {
       "cs": "V městské části Baťov, cca 25 m severovýchodně od budovy Technických služeb Otrokovice, pod úrovní ochranného protipovodňového valu, v blízkosti tzv. Svitovských zahrádek"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.512086305556966, 49.209676481299674]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.512086305556966, 49.209676481299674] }
+    }
   },
   {
     "název": { "cs": "Duby na městském koupališti" },
     "poznámka": {
       "cs": "V areálu městského koupaliště, v městské části Baťov, obvod kmenů 393 cm, 426 cm"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.509540247101288, 49.21995168055036]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.509540247101288, 49.21995168055036] }
+    }
   },
   {
     "název": { "cs": "Duby na Nivách" },
     "poznámka": {
       "cs": "Na konci řadové zástavby v Kvítkovicích na Nivách, cca 16 m od sebe, jeden dub u chodníku spojující místní část Otrokovic-Kvítkovic, Novy s ul. Bří Mrštíků, druhý dub v soukromé zahradě u čp. 1499"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.544351533979313, 49.19589223004022]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.544351533979313, 49.19589223004022] }
+    }
   },
   {
     "název": { "cs": "Lípa u Skaštic" },
     "poznámka": {
       "cs": "Jižně od obce pod areálem ZD, u sochy Panny Marie z r. 1885"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.422089659927632, 49.32809268215613]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.422089659927632, 49.32809268215613] }
+    }
   },
   {
     "název": { "cs": "Dub u Wolfova splávku" },
     "poznámka": {
       "cs": "Cca 800 m západně od obce, na břehu Wolfova splávku, je součástí břehového porostu mezi plochami orné půdy"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.40638921748045, 49.33106966210537]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.40638921748045, 49.33106966210537] }
+    }
   },
   {
     "název": { "cs": "Hruška Pavlových" },
     "poznámka": { "cs": "Na pastvině nad západní částí obce" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.659782247234002, 48.9394658213268]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.659782247234002, 48.9394658213268] }
+    }
   },
   {
     "název": { "cs": "Karlův dub" },
     "poznámka": { "cs": "Na pastvině severně za obcí " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.094102037547753, 49.130910564674785]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.094102037547753, 49.130910564674785] }
+    }
   },
   {
     "název": { "cs": "Dub na Paseckých Lazech" },
     "poznámka": { "cs": "Na pastvině za obcí na okraji lesní cesty " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.099493601520688, 49.1347855442068]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.099493601520688, 49.1347855442068] }
+    }
   },
   {
     "název": { "cs": "Čtyřbuk u Slavičína" },
     "poznámka": { "cs": "V lesním porostu na pasece" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.89477910729985, 49.10663872838807]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.89477910729985, 49.10663872838807] }
+    }
   },
   {
     "název": { "cs": "Farní lipová alej v Rajnochovicích" },
     "poznámka": {
       "cs": "V obci u příjezdové komunikace ke kostelu Narození Panny Marie a sv. Anny"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.819006118750426, 49.41268707615641],
           [17.82058379689205, 49.41252072994303],
@@ -2806,585 +1675,346 @@
           [17.81961976333673, 49.41262313760944]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Holíkova oskeruše 1" },
     "poznámka": { "cs": "V zahradě u p. 142" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.805876154684473, 49.200816565886576]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.805876154684473, 49.200816565886576] }
+    }
   },
   {
     "název": { "cs": "Vidovský dub" },
     "poznámka": {
       "cs": "V jižní části obce vedle lesní cesty nad místní hájenkou na okraji lesního porostu"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.73926447842491, 49.18743413835404]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.73926447842491, 49.18743413835404] }
+    }
   },
   {
     "název": { "cs": "Lípa u kaple v Kaňovicích" },
     "poznámka": { "cs": "V obci u kaple" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.700471181503527, 49.10926285217945]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.700471181503527, 49.10926285217945] }
+    }
   },
   {
     "název": { "cs": "Hruška v Horním poli" },
     "poznámka": {
       "cs": "Na mezi na severním okraji obce Horní Němčí na hranici katastrů"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.618129551584868, 48.94054875642369]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.618129551584868, 48.94054875642369] }
+    }
   },
   {
     "název": { "cs": "Král lesa" },
     "poznámka": {
       "cs": "V lesním porostu severně od Zámečku v lokalitě \"Hvězda"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.547245527717696, 49.39636594459831]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.547245527717696, 49.39636594459831] }
+    }
   },
   {
     "název": { "cs": "Buk u mlýna" },
     "poznámka": {
       "cs": "Na travnaté ploše u mlýna Třebětice čp. 32 vedle ovocného sadu"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.535500312814737, 49.31062287643942]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.535500312814737, 49.31062287643942] }
+    }
   },
   {
     "název": { "cs": "Hruška v brodských vinohradech" },
     "poznámka": {
       "cs": "V zahrádkářské kolonii v lokalitě \"Lysá hora\" v blízkosti místní komunikace"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.65820102428243, 49.03681214869899]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.65820102428243, 49.03681214869899] }
+    }
   },
   {
     "název": { "cs": "Lípa v Ohrádce" },
     "poznámka": {
       "cs": "Na svahu terasového stupně nad potoční nivou Koleláče u vegetační kořenové čistírny"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.877285307864444, 49.0539614633803]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.877285307864444, 49.0539614633803] }
+    }
   },
   {
     "název": { "cs": "Lípa na Malenisku" },
     "poznámka": {
       "cs": "Vedle příjezdové cesty ke kostelu Panny Marie Sněžné v poslední zatáčce cca 65 m severně od kostela"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Prajzovská hruška" },
     "poznámka": { "cs": "Na poli v lokalitě Záhumenice " },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Dub v Hostišové" },
     "poznámka": { "cs": "V obci v areálu zámečnické dílny" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Dub na Včelínku" },
     "poznámka": { "cs": "V obci v blízkosti nádrže" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Lípa u Luže" },
     "poznámka": { "cs": "" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Hašpicova lípa" },
     "poznámka": { "cs": "V obci u čp. 129" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Lípa u mlýna" },
     "poznámka": { "cs": "U bývalého mlýnského náhonu" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Lípy u kostela" },
     "poznámka": { "cs": "V obci u kostela svatého Petra a Pavla" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů"
   },
   {
     "název": { "cs": "Břek na ovčírně" },
     "poznámka": {
       "cs": "V blízkosti místní komunikace nedaleko sochy sv. Jana Nepomuckého"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Lípa u staré pošty" },
     "poznámka": { "cs": "V ulici Padělky v zahradě u čp. 95" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Mikeštíkova hruška" },
     "poznámka": { "cs": "Přibližně 100 m jihovýchodně od místního hřbitova" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Valdštejnův dub na Lukově" },
     "poznámka": { "cs": "V lesním porostu jižně od hradu Lukov" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.741357141905976, 49.30324300838566]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.741357141905976, 49.30324300838566] }
+    }
   },
   {
     "název": { "cs": "Lípa u Karlovského muzea" },
     "poznámka": { "cs": "V areálu historického muzea" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.286039617394483, 49.36098484005212]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.286039617394483, 49.36098484005212] }
+    }
   },
   {
     "název": { "cs": "Lípa Na Sihle" },
     "poznámka": {
       "cs": "Po levé straně silnice Velké Karlovice-Makov těsně za odbočkou do Podťatého jako součást památkově chráněné zemědělské usedlosti Na Sihle"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.33107087938063, 49.370533278342045]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.33107087938063, 49.370533278342045] }
+    }
   },
   {
     "název": { "cs": "Lípy na Machůzkách" },
     "poznámka": {
       "cs": "U dřevěného kříže na pravé straně silnice Vsetín-Velké Karlovice-Makov"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [18.315408605865738, 49.3674882286926],
           [18.315367923582723, 49.36745614947302]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Pasecký dub" },
     "poznámka": { "cs": "Na okraji lesního porostu v lokalitě Zlínské paseky" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.66894871804769, 49.24745913134219]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.66894871804769, 49.24745913134219] }
+    }
   },
   {
     "název": { "cs": "Katalpy na Schwaigrově náměstí" },
     "poznámka": {
       "cs": "Ve střední části města v parku na Schwaigrově náměstí"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.67369305962922, 49.39757348105976],
           [17.673630902827316, 49.39741183675266]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Buk u hradu Lukova" },
     "poznámka": {
       "cs": "V prudkém svahu cca 15-20 m severovýchodně pod hradbami hradu Lukova"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.742139664203126, 49.30407412939912]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.742139664203126, 49.30407412939912] }
+    }
   },
   {
     "název": { "cs": "Lípy u Bzovské kapličky" },
     "poznámka": { "cs": "Ve středu obce u kapličky a pomníku padlých" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.83573631860096, 49.00576793093973],
           [17.83580025714794, 49.00587234024339]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Borovice u Bezedníku" },
     "poznámka": { "cs": "V lesním porostu nedaleko rybníka Bezedník" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.72637045604827, 49.30026800798989]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.72637045604827, 49.30026800798989] }
+    }
   },
   {
     "název": { "cs": "Lípa U Poklony" },
     "poznámka": { "cs": "Na jižním okraji obce v polích U Poklony" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.543112829085214, 49.36079337997938]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.543112829085214, 49.36079337997938] }
+    }
   },
   {
     "název": { "cs": "Jilm u Brodského potoka" },
     "poznámka": {
       "cs": "Na levém břehu Brodského potoka nedaleko centra v sousedství uhelných skladů"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.205136022816088, 49.33882393863532]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.205136022816088, 49.33882393863532] }
+    }
   },
   {
     "název": { "cs": "Hruška za Jánem" },
     "poznámka": {
       "cs": "Na okraji lesního komplexu 500 m východně od kóty Rovná hora"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.596288705851617, 49.07582873910287]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.596288705851617, 49.07582873910287] }
+    }
   },
   {
     "název": { "cs": "Lípa u božích muk" },
     "poznámka": {
       "cs": "Na rozcestí polních cest Mistřice-Bílovice u božích muk"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.540816806125104, 49.09021684874235]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.540816806125104, 49.09021684874235] }
+    }
   },
   {
     "název": { "cs": "Antoškova oskeruše" },
     "poznámka": { "cs": "Na pastvině mezi obcemi Svárov a Zlámanec" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.623367289436448, 49.122253588245194]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.623367289436448, 49.122253588245194] }
+    }
   },
   {
     "název": { "cs": "Babyka pod Hůrkou" },
     "poznámka": {
       "cs": "Přibližně 700 m jihovýchodně od obce na mezi u zarůstající cesty mezi poli"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.877111491362474, 49.4473799994576]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.877111491362474, 49.4473799994576] }
+    }
   },
   {
     "název": { "cs": "Krásenský tis" },
     "poznámka": { "cs": "V soukromé zahradě (dřívější areál ZUŠ)" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.969489493229293, 49.477032544108546]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.969489493229293, 49.477032544108546] }
+    }
   },
   {
     "název": { "cs": "Platan v parku Botanika" },
     "poznámka": {
       "cs": "V malém parku Botanika v obytné čtvrti nedaleko centra města"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.96648703411446, 49.46996081973669]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.96648703411446, 49.46996081973669] }
+    }
   },
   {
     "název": { "cs": "Lípy v Policích" },
     "poznámka": {
       "cs": "Na západním okraji obce na křižovatce místních komunikací na pahorku s křížem z r. 1922"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.86233028318168, 49.45557938748657]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.86233028318168, 49.45557938748657] }
+    }
   },
   {
     "název": { "cs": "Liptálská lípa" },
     "poznámka": {
       "cs": "V centru obce na levém břehu Rokytenky poblíž katolického kostela"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.92817576573555, 49.291954706452024]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.92817576573555, 49.291954706452024] }
+    }
   },
   {
     "název": { "cs": "Kněžpolský dub" },
     "poznámka": { "cs": "V lesním porostu lužního lesa" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.498671446200905, 49.10137453673814]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.498671446200905, 49.10137453673814] }
+    }
   },
   {
     "název": { "cs": "Duby z areálu nemocnice" },
     "poznámka": { "cs": "Na travnaté ploše v areálu nemocnice" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.456691464888504, 49.063660887638285],
           [17.457068280140437, 49.06387916261496],
@@ -3392,363 +2022,224 @@
           [17.457388141092135, 49.06393748846873]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Hrušeň u Slováčků" },
     "poznámka": {
       "cs": "Na otevřeném prostranství pastvin jihovýchodně od obce Březnice."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.672507308770125, 49.1768954518162]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.672507308770125, 49.1768954518162] }
+    }
   },
   {
     "název": { "cs": "Hanáčkův dub" },
     "poznámka": {
       "cs": "Součást remízku na otevřeném prostranství rozsáhlých pastvin jižně od obce Březnice. Odhadované stáří cca 250 let."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.661917997769333, 49.175693671766844]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.661917997769333, 49.175693671766844] }
+    }
   },
   {
     "název": { "cs": "Oskeruše na Štákových Pasekách" },
     "poznámka": { "cs": "v lánu orné půdy za zlínskou místní částí Příluky" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.717823237600225, 49.243112848522394]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.717823237600225, 49.243112848522394] }
+    }
   },
   {
     "název": { "cs": "Hrušeň v Novákově zahradě" },
     "poznámka": {
       "cs": "Na otevřeném prostranství pastvin těsně za jihozápadním okrajem zastavěného území obce"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
-    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
-    "umístění": { "název": null, "geometrie": null },
-    "členské_dřeviny": []
+    "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom"
   },
   {
     "název": { "cs": "Hrušeň na Osmeku" },
     "poznámka": {
       "cs": "V okrajové části obce na rozcestí při výjezdu na Slušovice"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.75895445432838, 49.256575847465704]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.75895445432838, 49.256575847465704] }
+    }
   },
   {
     "název": { "cs": "Kudláčovy platany" },
     "poznámka": { "cs": "Na travnaté ploše mezi objekty nemocnice" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.45227867627816, 49.06390540924915],
           [17.45219191054527, 49.06384708339538]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Dub zimní \"\"U Vavřového" },
     "poznámka": {
       "cs": "Na okraji lesa v lokalitě \"U Vavřového\" vedle opravené bývalé hájenky. Stáří cca 200 let."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.324822811364104, 49.105641722256614]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.324822811364104, 49.105641722256614] }
+    }
   },
   {
     "název": { "cs": "Dub ve Vsetíně" },
     "poznámka": {
       "cs": "V areálu výkupny kovů v průmyslové zóně na levém břehu Vsetínské Bečvy na ulici Jiráskova."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.980269545890923, 49.34671673644977]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.980269545890923, 49.34671673644977] }
+    }
   },
   {
     "název": { "cs": "Dub v Semetíně" },
     "poznámka": {
       "cs": "Mělký žleb na západním svahu nad místní částí Semetín mezi domy č.p. 465 a chatkou, lesík mezi pastvinami."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.95691925082161, 49.34574183444051]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.95691925082161, 49.34574183444051] }
+    }
   },
   {
     "název": { "cs": "Lípa u Vilémů" },
     "poznámka": {
       "cs": "Na rozcestí polních cest v závěru údolí Velký Skalník nad usedlostí č.p. 547"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.02679673753674, 49.3573101563908]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.02679673753674, 49.3573101563908] }
+    }
   },
   {
     "název": { "cs": "Lípa v Leskovci" },
     "poznámka": {
       "cs": "Na dvoře domu č.p. 39 u hlavní komunikace procházející obcí Leskovec."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.000022443494597, 49.28896109602096]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.000022443494597, 49.28896109602096] }
+    }
   },
   {
     "název": { "cs": "Tkadlečkova babyka" },
     "poznámka": {
       "cs": "Západní svah nad místí částí Vsetína Horní Jasenka v remízku oddělujícím zástavbu od navazujících pastvin na horním konci ulice Pod Babykou"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.005928636115737, 49.35504530138295]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.005928636115737, 49.35504530138295] }
+    }
   },
   {
     "název": { "cs": "Hajtrova hrušeň" },
     "poznámka": {
       "cs": "Ve skupině liniové zeleně na terénní hraně mezi pastvinami nad žlebem potoka Rokytenka v lokalitě zvané \"V Háji\"."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.90353098962532, 49.316112682424894]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.90353098962532, 49.316112682424894] }
+    }
   },
   {
     "název": { "cs": "Hrušeň u prameniště Břehy" },
     "poznámka": { "cs": "Okraj louky na západním svahu nad PP Mokřady Vesník" },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.989653799533844, 49.367598263417484]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.989653799533844, 49.367598263417484] }
+    }
   },
   {
     "název": { "cs": "Babyka u vodojemu" },
     "poznámka": {
       "cs": "V remízku u vodojemu mezi pastvinami na východním svahu nad obcí Leskovec."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.996336445754213, 49.28288836027135]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.996336445754213, 49.28288836027135] }
+    }
   },
   {
     "název": { "cs": "Lípy u Mrnuštíků" },
     "poznámka": {
       "cs": "Lípy stojí kolem sošky Panny Marie na křižovatce červené turistické trasy a zelené cyklotrasy č. 6220 v okrajové části obce Oznice u č.p. 34."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.901987320194944, 49.437304753512684],
           [17.902035041348032, 49.43724642765891],
           [17.901955240975365, 49.43724642765891]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Dub ve Veselé" },
     "poznámka": {
       "cs": "Strom stojí na rozsáhlé travnaté ploše s herními prvky dětského hřiště mezi sportovním areálem a bytovými domy v obci Veselá."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [18.028258562552278, 49.460451637669784]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [18.028258562552278, 49.460451637669784] }
+    }
   },
   {
     "název": { "cs": "Machalova lípa" },
     "poznámka": {
       "cs": "dolní okraj zalesněného svahu nad cestou v okrajové části obce, u odbočky k domu č. p. 39 v ulici Machalův Dvůr"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.986839132854318, 49.32511739628341]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.986839132854318, 49.32511739628341] }
+    }
   },
   {
     "název": { "cs": "Masarykův jasan v Americkém parku" },
     "poznámka": {
       "cs": "vysazen Okrašlovacím spolkem v Holešově ve Wilsonových sadech (dnes Americký park) dne 13.4.1919 u příležitosti \"stromkové slavnosti"
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.589111721795884, 49.32987694588606]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.589111721795884, 49.32987694588606] }
+    }
   },
   {
     "název": { "cs": "Lípy na Hůrkách" },
     "poznámka": {
       "cs": "Dominantní skupina dřevin na návrší Hůrky západně od vesnice Komárovice, stáří 130, 130 a 110 let, obvod kmene 285, 255 a 210 cm, výška 18, 18 a 14 m."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "název": null,
       "geometrie": {
-        "Type": null,
         "Coordinates": [
           [17.84272953240568, 49.48206862140692],
           [17.842743968054496, 49.4820401815278],
           [17.84263792104763, 49.4820401815278]
         ]
       }
-    },
-    "členské_dřeviny": []
+    }
   },
   {
     "název": { "cs": "Dub u Záhlinic" },
     "poznámka": {
       "cs": "Strom roste v křovinaté mezi uprostřed polí, severně od obce Záhlinice, stáří cca 160 let."
     },
-    "druh_dřeviny": { "cs": null },
-    "obrázek": [],
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "název": null,
-      "geometrie": {
-        "Type": null,
-        "Coordinates": [17.489141215726175, 49.295585197596886]
-      }
-    },
-    "členské_dřeviny": []
+      "geometrie": { "Coordinates": [17.489141215726175, 49.295585197596886] }
+    }
   }
 ]
