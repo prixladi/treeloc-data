@@ -6,7 +6,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.22599651254377, 50.25166931594392] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.22599651254377, 50.25166931594392]
+      }
     }
   },
   {
@@ -16,7 +19,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.128712012726094, 50.22054209714138] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.128712012726094, 50.22054209714138]
+      }
     }
   },
   {
@@ -27,6 +33,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.242735181388735, 50.26719691517658],
           [17.2428475403494, 50.26725743427527]
@@ -42,6 +49,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.398559716715265, 50.26519422535036],
           [17.398591795934845, 50.265107459617475],
@@ -57,7 +65,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.36123433485758, 50.26261644595888] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.36123433485758, 50.26261644595888]
+      }
     }
   },
   {
@@ -68,6 +79,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.32291461896313, 50.29871899600918],
           [17.32286689781004, 50.29871699437192]
@@ -82,7 +94,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.28793704622345, 50.2805817434139] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.28793704622345, 50.2805817434139]
+      }
     }
   },
   {
@@ -92,7 +107,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.350075588366376, 50.25966727572948] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.350075588366376, 50.25966727572948]
+      }
     }
   },
   {
@@ -102,7 +120,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.349179233619903, 50.25907759939579] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.349179233619903, 50.25907759939579]
+      }
     }
   },
   {
@@ -113,6 +134,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.350311891507136, 50.25838390083435],
           [17.350159761050396, 50.25838390083435],
@@ -128,7 +150,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.20559703105734, 50.14949751282105] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.20559703105734, 50.14949751282105]
+      }
     }
   },
   {
@@ -138,7 +163,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.12473648323739, 50.19804181020586] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.12473648323739, 50.19804181020586]
+      }
     }
   },
   {
@@ -146,7 +174,10 @@
     "poznámka": { "cs": "V centru obce, u památníku frývaldovské stávky" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.15259924856755, 50.22965275134407] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.15259924856755, 50.22965275134407]
+      }
     }
   },
   {
@@ -156,7 +187,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.192585935085734, 50.24296797402979] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.192585935085734, 50.24296797402979]
+      }
     }
   },
   {
@@ -166,7 +200,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.240619940290816, 50.29182747553019] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.240619940290816, 50.29182747553019]
+      }
     }
   },
   {
@@ -174,7 +211,10 @@
     "poznámka": { "cs": "U silnice Jeseník-Detřichov-Seč" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.230550557932343, 50.214322829016986] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.230550557932343, 50.214322829016986]
+      }
     }
   },
   {
@@ -184,7 +224,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.13133110455985, 50.225998494562965] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.13133110455985, 50.225998494562965]
+      }
     }
   },
   {
@@ -194,7 +237,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.12156127332315, 50.226446507124145] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.12156127332315, 50.226446507124145]
+      }
     }
   },
   {
@@ -204,7 +250,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "geometrie": { "Coordinates": [17.1674117880864, 50.22301298065164] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.1674117880864, 50.22301298065164]
+      }
     }
   },
   {
@@ -212,7 +261,10 @@
     "poznámka": { "cs": "V zahradě u lesní správy, u silnice Jeseník-Rejvíz" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.227461275395736, 50.21314775636845] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.227461275395736, 50.21314775636845]
+      }
     }
   },
   {
@@ -222,7 +274,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.051310218727647, 50.175512783696824] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.051310218727647, 50.175512783696824]
+      }
     }
   },
   {
@@ -233,6 +288,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.19392023905591, 50.19885305519568],
           [17.193981668941536, 50.198844452132256]
@@ -245,7 +301,10 @@
     "poznámka": { "cs": "U čp. 147 při místní komunikaci od závodu JESAN" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.197976714661383, 50.20029878858616] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.197976714661383, 50.20029878858616]
+      }
     }
   },
   {
@@ -255,7 +314,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.322335547330116, 50.29772107861039] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.322335547330116, 50.29772107861039]
+      }
     }
   },
   {
@@ -265,7 +327,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.89073399392603, 50.44043764032153] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.89073399392603, 50.44043764032153]
+      }
     }
   },
   {
@@ -275,7 +340,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.400611648035888, 50.253850416084795] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.400611648035888, 50.253850416084795]
+      }
     }
   },
   {
@@ -285,7 +353,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.151746989235196, 50.325130392278574] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.151746989235196, 50.325130392278574]
+      }
     }
   },
   {
@@ -295,7 +366,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.013325382692226, 50.39560754500123] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.013325382692226, 50.39560754500123]
+      }
     }
   },
   {
@@ -305,7 +379,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.02289629544997, 50.38208090472565] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.02289629544997, 50.38208090472565]
+      }
     }
   },
   {
@@ -313,7 +390,10 @@
     "poznámka": { "cs": "V předzahrádce u školní družiny v centru obce" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.0832604728239, 49.87887084642201] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.0832604728239, 49.87887084642201]
+      }
     }
   },
   {
@@ -321,7 +401,10 @@
     "poznámka": { "cs": "Za obcí pod Malínským vrchem" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.055408433369298, 49.94829628187748] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.055408433369298, 49.94829628187748]
+      }
     }
   },
   {
@@ -331,7 +414,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.876265665142416, 49.88610028453818] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.876265665142416, 49.88610028453818]
+      }
     }
   },
   {
@@ -339,7 +425,10 @@
     "poznámka": { "cs": "u domu při silnici Vikantice  Branná" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.998794346099306, 50.138694134453765] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.998794346099306, 50.138694134453765]
+      }
     }
   },
   {
@@ -348,6 +437,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.940553885548898, 49.94056261149456],
           [16.936682113938833, 49.94060650169953]
@@ -360,7 +450,10 @@
     "poznámka": { "cs": "V zámeckém parku poblíž hlavního vchodu" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.09214704825423, 50.07017648536732] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.09214704825423, 50.07017648536732]
+      }
     }
   },
   {
@@ -373,7 +466,10 @@
     "poznámka": { "cs": "V obci u hlavní silnice" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.113410878271704, 49.98808748064116] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.113410878271704, 49.98808748064116]
+      }
     }
   },
   {
@@ -386,7 +482,10 @@
     "poznámka": { "cs": "V zahradě u čp. 7 v Terezínské ulici" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.977741000582913, 49.96741592607548] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.977741000582913, 49.96741592607548]
+      }
     }
   },
   {
@@ -394,7 +493,10 @@
     "poznámka": { "cs": "Mezi cestou a rybníkem" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.139158150393687, 50.033121714984794] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.139158150393687, 50.033121714984794]
+      }
     }
   },
   {
@@ -404,7 +506,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.0865294873411, 49.92463205147077] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.0865294873411, 49.92463205147077]
+      }
     }
   },
   {
@@ -413,6 +518,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.84226762365571, 50.07752337541212],
           [16.841738259256555, 50.077766643913115]
@@ -426,6 +532,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.96714720210368, 50.164337649186315],
           [17.594002779939256, 50.20417284462625]
@@ -441,6 +548,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.896817383800023, 50.13471631583685],
           [16.89683181944884, 50.13475699811985]
@@ -454,6 +562,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.987987702000826, 50.160723484623695],
           [16.988093749007692, 50.160723484623695]
@@ -467,6 +576,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.878069235820075, 50.07661907100864],
           [16.877869172683905, 50.076486777367585]
@@ -485,6 +595,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.00370058508079, 50.17610246003051],
           [17.003615141013864, 50.17601867193982],
@@ -498,7 +609,10 @@
     "poznámka": { "cs": "S od kóty 585" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.864183526809757, 50.08372008563983] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.864183526809757, 50.08372008563983]
+      }
     }
   },
   {
@@ -506,7 +620,10 @@
     "poznámka": { "cs": "Na pravé straně silnice Zábřeh-Olšany za můstkem" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.867264606086888, 49.953636264072024] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.867264606086888, 49.953636264072024]
+      }
     }
   },
   {
@@ -526,7 +643,10 @@
     "poznámka": { "cs": "Za obcí na mezi za fotbalovým hřištěm" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.976744831218912, 49.828943370508604] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.976744831218912, 49.828943370508604]
+      }
     }
   },
   {
@@ -534,7 +654,10 @@
     "poznámka": { "cs": "Pod hájenkou v Josefově" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.066790362390737, 50.149345382364295] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.066790362390737, 50.149345382364295]
+      }
     }
   },
   {
@@ -542,7 +665,10 @@
     "poznámka": { "cs": "V blízkosti staré hasičské zbrojnice" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.030302941198602, 50.117382180229605] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.030302941198602, 50.117382180229605]
+      }
     }
   },
   {
@@ -552,7 +678,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.023704664577362, 50.15143170916159] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.023704664577362, 50.15143170916159]
+      }
     }
   },
   {
@@ -562,7 +691,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.95914488461801, 50.078627611693285] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.95914488461801, 50.078627611693285]
+      }
     }
   },
   {
@@ -570,7 +702,10 @@
     "poznámka": { "cs": "poblíž školy" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.95115269885549, 50.10916389622306] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.95115269885549, 50.10916389622306]
+      }
     }
   },
   {
@@ -580,7 +715,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.93333712999709, 50.138495696292786] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.93333712999709, 50.138495696292786]
+      }
     }
   },
   {
@@ -588,7 +726,10 @@
     "poznámka": { "cs": "V obci před domem čp. 22" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.899430404396607, 50.02119947476459] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.899430404396607, 50.02119947476459]
+      }
     }
   },
   {
@@ -596,7 +737,10 @@
     "poznámka": { "cs": "Před zámkem na křižovatce místních komunikací" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.929674028416247, 49.941522155993006] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.929674028416247, 49.941522155993006]
+      }
     }
   },
   {
@@ -604,7 +748,10 @@
     "poznámka": { "cs": "U křížku v polích poblíž zbořeniště" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.90963106444077, 50.111233535462155] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.90963106444077, 50.111233535462155]
+      }
     }
   },
   {
@@ -614,7 +761,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.83773533738955, 49.94480259529312] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.83773533738955, 49.94480259529312]
+      }
     }
   },
   {
@@ -622,7 +772,10 @@
     "poznámka": { "cs": "U silnice Zábřeh-Růžové údolí, na kmeni obrázek" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.849632429146784, 49.88773226032796] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.849632429146784, 49.88773226032796]
+      }
     }
   },
   {
@@ -630,7 +783,10 @@
     "poznámka": { "cs": "v areálu statku" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.925493608630678, 50.1214460064917] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.925493608630678, 50.1214460064917]
+      }
     }
   },
   {
@@ -638,7 +794,10 @@
     "poznámka": { "cs": "v areálu statku" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.92592054980695, 50.121846297899786] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.92592054980695, 50.121846297899786]
+      }
     }
   },
   {
@@ -646,7 +805,10 @@
     "poznámka": { "cs": "U bývalého polesí" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.87274766550281, 50.10194987654568] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.87274766550281, 50.10194987654568]
+      }
     }
   },
   {
@@ -654,7 +816,10 @@
     "poznámka": { "cs": "U rekreační chaty čp. 96 " },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.985880602870946, 50.13425313465597] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.985880602870946, 50.13425313465597]
+      }
     }
   },
   {
@@ -662,7 +827,10 @@
     "poznámka": { "cs": "Na levém břehu potoka u rekreační chaty Olšanka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.994963256772255, 50.19724790995097] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.994963256772255, 50.19724790995097]
+      }
     }
   },
   {
@@ -672,7 +840,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.036705755343863, 50.02379104912651] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.036705755343863, 50.02379104912651]
+      }
     }
   },
   {
@@ -680,7 +851,10 @@
     "poznámka": { "cs": "Na návsi u pomníku" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.905927653409375, 49.76474119157938] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.905927653409375, 49.76474119157938]
+      }
     }
   },
   {
@@ -693,7 +867,10 @@
     "poznámka": { "cs": "v centru města poblíž kostela, u čp. 158" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.948597115597334, 50.16114548035004] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.948597115597334, 50.16114548035004]
+      }
     }
   },
   {
@@ -703,7 +880,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.991094152828612, 50.08747272480645] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.991094152828612, 50.08747272480645]
+      }
     }
   },
   {
@@ -713,7 +893,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.911836773512615, 49.91346120610431] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.911836773512615, 49.91346120610431]
+      }
     }
   },
   {
@@ -723,7 +906,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.90816136279768, 49.90955614898997] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.90816136279768, 49.90955614898997]
+      }
     }
   },
   {
@@ -731,7 +917,10 @@
     "poznámka": { "cs": "na hřbitově u kostela" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.912506250218986, 49.906994398607914] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.912506250218986, 49.906994398607914]
+      }
     }
   },
   {
@@ -739,7 +928,10 @@
     "poznámka": { "cs": "u kostela u vchodu na hřbitov" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.860972626619994, 50.07426254423603] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.860972626619994, 50.07426254423603]
+      }
     }
   },
   {
@@ -749,7 +941,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.860208584055254, 50.077351183885334] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.860208584055254, 50.077351183885334]
+      }
     }
   },
   {
@@ -757,7 +952,10 @@
     "poznámka": { "cs": "Na návsi u kostela" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.881372792992583, 49.74340704635498] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.881372792992583, 49.74340704635498]
+      }
     }
   },
   {
@@ -767,7 +965,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.74647481668568, 49.649692332526364] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.74647481668568, 49.649692332526364]
+      }
     }
   },
   {
@@ -777,7 +978,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.746648214497167, 49.65380669476581] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.746648214497167, 49.65380669476581]
+      }
     }
   },
   {
@@ -787,7 +991,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.649637543476924, 49.58658955874734] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.649637543476924, 49.58658955874734]
+      }
     }
   },
   {
@@ -797,7 +1004,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.734878104733706, 49.55317194939807] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.734878104733706, 49.55317194939807]
+      }
     }
   },
   {
@@ -807,7 +1017,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.760903830803972, 49.461352103323826] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.760903830803972, 49.461352103323826]
+      }
     }
   },
   {
@@ -815,7 +1028,10 @@
     "poznámka": { "cs": "Na druhém nádvoří hradu Helfštýn" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.587721093609186, 49.51574434254734] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.587721093609186, 49.51574434254734]
+      }
     }
   },
   {
@@ -823,7 +1039,10 @@
     "poznámka": { "cs": "U zámku poblíž silnice" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.766343967802083, 49.48914092139605] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.766343967802083, 49.48914092139605]
+      }
     }
   },
   {
@@ -831,7 +1050,10 @@
     "poznámka": { "cs": "V západní části obce, na hraně svahu nad silnicí" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.77837254830744, 49.471991606714745] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.77837254830744, 49.471991606714745]
+      }
     }
   },
   {
@@ -839,7 +1061,10 @@
     "poznámka": { "cs": "V parku za zámečkem v centru obce" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.46819523530193, 49.413099801576045] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.46819523530193, 49.413099801576045]
+      }
     }
   },
   {
@@ -849,7 +1074,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.522237924060416, 49.49367477293375] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.522237924060416, 49.49367477293375]
+      }
     }
   },
   {
@@ -857,7 +1085,10 @@
     "poznámka": { "cs": "V obci vedle hasičské zbrojnice" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.433909153579446, 49.51382316729906] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.433909153579446, 49.51382316729906]
+      }
     }
   },
   {
@@ -867,7 +1098,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.611724693726227, 49.463650243835964] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.611724693726227, 49.463650243835964]
+      }
     }
   },
   {
@@ -875,7 +1109,10 @@
     "poznámka": { "cs": "V zahradě na severovýchodním okraji obce" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.62376557920727, 49.472292871232604] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.62376557920727, 49.472292871232604]
+      }
     }
   },
   {
@@ -885,7 +1122,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.47962496993038, 49.510219226097625] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.47962496993038, 49.510219226097625]
+      }
     }
   },
   {
@@ -893,7 +1133,10 @@
     "poznámka": { "cs": "V zahradě domu čp. 1, poblíž místní komunikace" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.58085271810761, 49.49667009974777] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.58085271810761, 49.49667009974777]
+      }
     }
   },
   {
@@ -903,7 +1146,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.456253827228668, 49.45376262154195] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.456253827228668, 49.45376262154195]
+      }
     }
   },
   {
@@ -911,7 +1157,10 @@
     "poznámka": { "cs": "V obci u barokní sochy sv. Floriana z r. 1760 " },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.504635006208492, 49.53057387421193] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.504635006208492, 49.53057387421193]
+      }
     }
   },
   {
@@ -919,7 +1168,10 @@
     "poznámka": { "cs": "V ulici Pod Hůrou, poblíž obytného domu čp. 513" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.599622340606448, 49.508078841463465] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.599622340606448, 49.508078841463465]
+      }
     }
   },
   {
@@ -927,7 +1179,10 @@
     "poznámka": { "cs": "V hájku nad obcí v sousedství výletiště" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.662245977366357, 49.448340465818056] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.662245977366357, 49.448340465818056]
+      }
     }
   },
   {
@@ -935,7 +1190,10 @@
     "poznámka": { "cs": "V zahradě u čp. 33" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.57212086558349, 49.50618807363441] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.57212086558349, 49.50618807363441]
+      }
     }
   },
   {
@@ -943,7 +1201,10 @@
     "poznámka": { "cs": "Na oploceném pozemku u památníku padlých v obci" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.51969639519265, 49.478468049460425] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.51969639519265, 49.478468049460425]
+      }
     }
   },
   {
@@ -953,7 +1214,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.501853312871592, 49.41689028105176] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.501853312871592, 49.41689028105176]
+      }
     }
   },
   {
@@ -961,7 +1225,10 @@
     "poznámka": { "cs": "V centru obce na staré návsi u čp. 795" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.33932226265166, 49.78366765868886] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.33932226265166, 49.78366765868886]
+      }
     }
   },
   {
@@ -971,7 +1238,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.302126877325957, 49.73426505432699] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.302126877325957, 49.73426505432699]
+      }
     }
   },
   {
@@ -979,7 +1249,10 @@
     "poznámka": { "cs": "na levém břehu Mlýnského potoka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.19917631973885, 49.64870345563492] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.19917631973885, 49.64870345563492]
+      }
     }
   },
   {
@@ -987,7 +1260,10 @@
     "poznámka": { "cs": "Na okraji lesního porostu 566B7, strom zanikl" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.99725849993629, 49.76083363850869] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.99725849993629, 49.76083363850869]
+      }
     }
   },
   {
@@ -995,7 +1271,10 @@
     "poznámka": { "cs": "v Nových Mlýnech na okraji lesa" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.99778000697093, 49.73275034254646] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.99778000697093, 49.73275034254646]
+      }
     }
   },
   {
@@ -1003,7 +1282,10 @@
     "poznámka": { "cs": "v Nových Mlýnech na okraji lesa" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.9976300697591, 49.73249721787217] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.9976300697591, 49.73249721787217]
+      }
     }
   },
   {
@@ -1011,7 +1293,10 @@
     "poznámka": { "cs": "v místní části Rozpach, por.sk. 797C15/7a" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.13014376015931, 49.715608461339535] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.13014376015931, 49.715608461339535]
+      }
     }
   },
   {
@@ -1019,7 +1304,10 @@
     "poznámka": { "cs": "v místní části Rozpach" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.12906132823394, 49.71650523390304] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.12906132823394, 49.71650523390304]
+      }
     }
   },
   {
@@ -1027,7 +1315,10 @@
     "poznámka": { "cs": "v místní části Rozpach" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.130246167825707, 49.71882278934344] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.130246167825707, 49.71882278934344]
+      }
     }
   },
   {
@@ -1035,7 +1326,10 @@
     "poznámka": { "cs": "u železnice, místní část U Poněvy" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.16582160378763, 49.6950595159551] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.16582160378763, 49.6950595159551]
+      }
     }
   },
   {
@@ -1043,7 +1337,10 @@
     "poznámka": { "cs": "u železnice, místní část U Poněvy" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.1660288521762, 49.69496790459704] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.1660288521762, 49.69496790459704]
+      }
     }
   },
   {
@@ -1051,7 +1348,10 @@
     "poznámka": { "cs": "vlevo od železniční tratě Střeň-Červenka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.148210878546546, 49.701236845351694] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.148210878546546, 49.701236845351694]
+      }
     }
   },
   {
@@ -1059,7 +1359,10 @@
     "poznámka": { "cs": "vlevo od železniční tratě Střeň-Červenka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.148775491388864, 49.701481751555896] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.148775491388864, 49.701481751555896]
+      }
     }
   },
   {
@@ -1067,7 +1370,10 @@
     "poznámka": { "cs": "na okraji lesního porostu" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.206869547649323, 49.648671376415344] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.206869547649323, 49.648671376415344]
+      }
     }
   },
   {
@@ -1075,7 +1381,10 @@
     "poznámka": { "cs": "lužní les vlevo od cyklostezky Tři mosty-Hynkov" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.192080046842722, 49.65882293524849] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.192080046842722, 49.65882293524849]
+      }
     }
   },
   {
@@ -1083,7 +1392,10 @@
     "poznámka": { "cs": "lužní les vlevo od cyklostezky Tři mosty-Hynkov" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.18978033670656, 49.659498736636685] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.18978033670656, 49.659498736636685]
+      }
     }
   },
   {
@@ -1091,7 +1403,10 @@
     "poznámka": { "cs": "lužní les vlevo od cyklostezky Tři mosty-Hynkov" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.192097690413487, 49.65985953329302] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.192097690413487, 49.65985953329302]
+      }
     }
   },
   {
@@ -1099,7 +1414,10 @@
     "poznámka": { "cs": "mezi cyklostezkou ke Třem mostům a Mlýnským potokem" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.19609524046172, 49.65276162269368] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.19609524046172, 49.65276162269368]
+      }
     }
   },
   {
@@ -1107,7 +1425,10 @@
     "poznámka": { "cs": "mezi cyklostezkou ke Třem mostům a Mlýnským potokem" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.196821041384613, 49.65107482921676] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.196821041384613, 49.65107482921676]
+      }
     }
   },
   {
@@ -1115,7 +1436,10 @@
     "poznámka": { "cs": "U cyklostezky ke Třem mostům" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.199445505037144, 49.645018296249795] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.199445505037144, 49.645018296249795]
+      }
     }
   },
   {
@@ -1126,6 +1450,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.142298119102836, 49.695043874021586],
           [17.140270820345624, 49.69600771056354],
@@ -1143,7 +1468,10 @@
     "poznámka": { "cs": "V lokalitě U dubu" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.133642860638563, 49.682444505235274] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.133642860638563, 49.682444505235274]
+      }
     }
   },
   {
@@ -1153,7 +1481,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.111909097409036, 49.68824326801511] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.111909097409036, 49.68824326801511]
+      }
     }
   },
   {
@@ -1163,7 +1494,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.17676708883568, 49.67182287940057] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.17676708883568, 49.67182287940057]
+      }
     }
   },
   {
@@ -1171,7 +1505,10 @@
     "poznámka": { "cs": "U mostku přes mlýnský náhon v Hynkově" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.17597665010521, 49.67172886327128] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.17597665010521, 49.67172886327128]
+      }
     }
   },
   {
@@ -1181,7 +1518,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.191208282754214, 49.662828163781306] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.191208282754214, 49.662828163781306]
+      }
     }
   },
   {
@@ -1191,7 +1531,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.01558072336932, 49.7121599696897] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.01558072336932, 49.7121599696897]
+      }
     }
   },
   {
@@ -1199,7 +1542,10 @@
     "poznámka": { "cs": "Na hrázi lesního rybníčku asi 500 m od zámku" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.027200492786957, 49.72163508645627] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.027200492786957, 49.72163508645627]
+      }
     }
   },
   {
@@ -1209,7 +1555,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.14956008973265, 49.70767655290796] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.14956008973265, 49.70767655290796]
+      }
     }
   },
   {
@@ -1219,7 +1568,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.135472152653303, 49.71529243133596] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.135472152653303, 49.71529243133596]
+      }
     }
   },
   {
@@ -1229,7 +1581,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.13521860928852, 49.71525914583167] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.13521860928852, 49.71525914583167]
+      }
     }
   },
   {
@@ -1239,7 +1594,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.134539599978364, 49.71517535774098] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.134539599978364, 49.71517535774098]
+      }
     }
   },
   {
@@ -1247,7 +1605,10 @@
     "poznámka": { "cs": "Na křižovatce lesních cest Střeňská a U trati" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.126867353540778, 49.703684730060736] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.126867353540778, 49.703684730060736]
+      }
     }
   },
   {
@@ -1255,7 +1616,10 @@
     "poznámka": { "cs": "U silnice z Nových Dvorů do Králové" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.038293602678824, 49.75366525681331] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.038293602678824, 49.75366525681331]
+      }
     }
   },
   {
@@ -1263,7 +1627,10 @@
     "poznámka": { "cs": "V lese pod úsovskou hájovnou" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.005852694348125, 49.77900347788252] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.005852694348125, 49.77900347788252]
+      }
     }
   },
   {
@@ -1271,7 +1638,10 @@
     "poznámka": { "cs": "u chaty u lesní školky nad prameništěm Čerlinka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.05691634183471, 49.72259883387341] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.05691634183471, 49.72259883387341]
+      }
     }
   },
   {
@@ -1279,7 +1649,10 @@
     "poznámka": { "cs": "Na okraji obce, u budovy polesí" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.019327371304552, 49.70972532618406] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.019327371304552, 49.70972532618406]
+      }
     }
   },
   {
@@ -1289,7 +1662,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.126372069998457, 49.76981391847915] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.126372069998457, 49.76981391847915]
+      }
     }
   },
   {
@@ -1299,7 +1675,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.130650831545136, 49.740874720254105] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.130650831545136, 49.740874720254105]
+      }
     }
   },
   {
@@ -1309,7 +1688,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.43683984188282, 49.68767983831561] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.43683984188282, 49.68767983831561]
+      }
     }
   },
   {
@@ -1319,7 +1701,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.447215920927082, 49.692587920479234] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.447215920927082, 49.692587920479234]
+      }
     }
   },
   {
@@ -1328,6 +1713,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.07722476728878, 49.57713292813046],
           [17.077178683838905, 49.577285058587215]
@@ -1341,6 +1727,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.069983802609944, 49.600159761050385],
           [17.06278833464678, 49.59884218986405],
@@ -1362,6 +1749,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.142002687170343, 49.64862365526225],
           [17.1377032142363, 49.65359082281814]
@@ -1377,6 +1765,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.078125967660416, 49.766385381403886],
           [17.078158046879995, 49.766314372985754],
@@ -1393,6 +1782,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.270806192870932, 49.48951936162316],
           [17.27101863526222, 49.48950171805239],
@@ -1409,6 +1799,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.355549629358716, 49.5953803672845],
           [17.353717187383428, 49.59565482270562]
@@ -1423,7 +1814,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.314048870964644, 49.51828857429437] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.314048870964644, 49.51828857429437]
+      }
     }
   },
   {
@@ -1431,7 +1825,10 @@
     "poznámka": { "cs": "na bývalém hřbitově u kostela v obci" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.444792735428056, 49.742715553766494] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.444792735428056, 49.742715553766494]
+      }
     }
   },
   {
@@ -1439,7 +1836,10 @@
     "poznámka": { "cs": "V zahradě obecního úřadu v Jívové" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.39037339671742, 49.70505424042421] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.39037339671742, 49.70505424042421]
+      }
     }
   },
   {
@@ -1449,7 +1849,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.319473412919134, 49.644913886946135] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.319473412919134, 49.644913886946135]
+      }
     }
   },
   {
@@ -1457,7 +1860,10 @@
     "poznámka": { "cs": "U myslivny " },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.085815167566704, 49.56906289347244] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.085815167566704, 49.56906289347244]
+      }
     }
   },
   {
@@ -1467,7 +1873,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.342370024549997, 49.78688068148137] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.342370024549997, 49.78688068148137]
+      }
     }
   },
   {
@@ -1475,7 +1884,10 @@
     "poznámka": { "cs": "Na návsi u domu čp. 51" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.232385760748297, 49.75345680214004] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.232385760748297, 49.75345680214004]
+      }
     }
   },
   {
@@ -1483,7 +1895,10 @@
     "poznámka": { "cs": "v obci u zdi zahrady" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.2686337290172, 49.604406366770796] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.2686337290172, 49.604406366770796]
+      }
     }
   },
   {
@@ -1493,7 +1908,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.441452601788885, 49.78358785831619] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.441452601788885, 49.78358785831619]
+      }
     }
   },
   {
@@ -1501,7 +1919,10 @@
     "poznámka": { "cs": "ve středu náměstí v Moravském Berouně" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.44443196191359, 49.794289377177414] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.44443196191359, 49.794289377177414]
+      }
     }
   },
   {
@@ -1544,6 +1965,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.89978097301434, 49.580950936698365],
           [16.901154394593778, 49.58141161307045],
@@ -1567,6 +1989,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.821350466082766, 49.571202071821894],
           [16.818530197097612, 49.57582396000755],
@@ -1584,6 +2007,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [16.752203489167453, 49.559638710004585],
           [16.754288462353433, 49.56079976569479],
@@ -1601,7 +2025,10 @@
     "poznámka": { "cs": "Na okraji lesního porostu při lesní cestě" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.857739307055727, 49.65739163750681] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.857739307055727, 49.65739163750681]
+      }
     }
   },
   {
@@ -1616,7 +2043,10 @@
     "poznámka": { "cs": "Před nádražní bytovkou, za kolejištěm" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.16351500800135, 49.33597167033481] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.16351500800135, 49.33597167033481]
+      }
     }
   },
   {
@@ -1626,7 +2056,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.232728913833878, 49.33549084558316] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.232728913833878, 49.33549084558316]
+      }
     }
   },
   {
@@ -1636,7 +2069,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "geometrie": { "Coordinates": [16.875229067097866, 49.51101733396272] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.875229067097866, 49.51101733396272]
+      }
     }
   },
   {
@@ -1649,7 +2085,10 @@
     "poznámka": { "cs": "V obci u čp. 85" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.824554312932175, 49.586071006213025] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.824554312932175, 49.586071006213025]
+      }
     }
   },
   {
@@ -1657,7 +2096,10 @@
     "poznámka": { "cs": "V obci u kaple " },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.89723707457988, 49.54784260018844] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.89723707457988, 49.54784260018844]
+      }
     }
   },
   {
@@ -1703,7 +2145,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.872992187113677, 49.618719608820136] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.872992187113677, 49.618719608820136]
+      }
     }
   },
   {
@@ -1713,7 +2158,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.3967878908572, 50.26803860168277] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.3967878908572, 50.26803860168277]
+      }
     }
   },
   {
@@ -1723,7 +2171,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.253922458959234, 49.640325675564334] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.253922458959234, 49.640325675564334]
+      }
     }
   },
   {
@@ -1733,7 +2184,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.152497432312767, 49.86405695669094] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.152497432312767, 49.86405695669094]
+      }
     }
   },
   {
@@ -1748,7 +2202,10 @@
     "poznámka": { "cs": "za obcí u Moravy" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.238951086298496, 49.643149614269895] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.238951086298496, 49.643149614269895]
+      }
     }
   },
   {
@@ -1756,7 +2213,10 @@
     "poznámka": { "cs": "V břehovém porostu Zámecké Moravy" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.031064940049962, 49.72044933559717] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.031064940049962, 49.72044933559717]
+      }
     }
   },
   {
@@ -1787,7 +2247,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
-      "geometrie": { "Coordinates": [17.151904745113175, 50.33201711233021] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.151904745113175, 50.33201711233021]
+      }
     }
   },
   {
@@ -1797,7 +2260,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.340548129313998, 50.272174277957454] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.340548129313998, 50.272174277957454]
+      }
     }
   },
   {
@@ -1807,7 +2273,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.28041449335878, 50.26994726265166] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.28041449335878, 50.26994726265166]
+      }
     }
   },
   {
@@ -1817,7 +2286,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.08062372469134, 50.22590447843367] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.08062372469134, 50.22590447843367]
+      }
     }
   },
   {
@@ -1827,7 +2299,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.112422001380242, 50.227571114451116] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.112422001380242, 50.227571114451116]
+      }
     }
   },
   {
@@ -1837,7 +2312,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.157447654665173, 50.29716348149628] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.157447654665173, 50.29716348149628]
+      }
     }
   },
   {
@@ -1847,7 +2325,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.205293798999367, 50.36285084566527] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.205293798999367, 50.36285084566527]
+      }
     }
   },
   {
@@ -1857,7 +2338,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.208326894969137, 50.23382538927719] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.208326894969137, 50.23382538927719]
+      }
     }
   },
   {
@@ -1867,7 +2351,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.210987580353237, 50.230954664530806] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.210987580353237, 50.230954664530806]
+      }
     }
   },
   {
@@ -1877,7 +2364,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.33003819149101, 50.25681146600032] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.33003819149101, 50.25681146600032]
+      }
     }
   },
   {
@@ -1885,7 +2375,10 @@
     "poznámka": { "cs": "V oboře, levý údolní svah Klepáčovského potoka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.117645984570583, 49.988903704910435] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.117645984570583, 49.988903704910435]
+      }
     }
   },
   {
@@ -1893,7 +2386,10 @@
     "poznámka": { "cs": "V zahradě čp. 13 v ulici Chválkovická v Olomouci" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.283318820520147, 49.608606409680625] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.283318820520147, 49.608606409680625]
+      }
     }
   },
   {
@@ -1903,7 +2399,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.252395342249304, 49.600607356663325] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.252395342249304, 49.600607356663325]
+      }
     }
   },
   {
@@ -1914,6 +2413,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.252253604966914, 49.59977274090172],
           [17.252227358332714, 49.59950012778929]
@@ -1928,7 +2428,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.23757882859884, 49.579673187224465] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.23757882859884, 49.579673187224465]
+      }
     }
   },
   {
@@ -1938,7 +2441,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.240391437275537, 49.58410401939036] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.240391437275537, 49.58410401939036]
+      }
     }
   },
   {
@@ -1946,7 +2452,10 @@
     "poznámka": { "cs": "Na okraji trávníku v ulici Polská u čp. 430" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.25413382605669, 49.585689611485584] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.25413382605669, 49.585689611485584]
+      }
     }
   },
   {
@@ -1956,7 +2465,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.2726403323008, 49.5978410412206] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.2726403323008, 49.5978410412206]
+      }
     }
   },
   {
@@ -1966,7 +2478,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.24994804940302, 49.589757003953416] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.24994804940302, 49.589757003953416]
+      }
     }
   },
   {
@@ -1976,7 +2491,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.363187033778022, 49.637811246636694] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.363187033778022, 49.637811246636694]
+      }
     }
   },
   {
@@ -2006,6 +2524,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.015902852107946, 50.15689228078883],
           [17.016196005658838, 50.15739614425271],
@@ -2034,7 +2553,10 @@
     "poznámka": { "cs": "Nad bývalou školou u křižovatky" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.98971167801381, 50.20117301540731] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.98971167801381, 50.20117301540731]
+      }
     }
   },
   {
@@ -2054,7 +2576,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.193033474333088, 50.240175306568496] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.193033474333088, 50.240175306568496]
+      }
     }
   },
   {
@@ -2074,7 +2599,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.836859912085, 49.82190603696163] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.836859912085, 49.82190603696163]
+      }
     }
   },
   {
@@ -2084,7 +2612,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.033109824416538, 49.822605921087224] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.033109824416538, 49.822605921087224]
+      }
     }
   },
   {
@@ -2094,7 +2625,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.001559750755096, 49.80887428653826] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.001559750755096, 49.80887428653826]
+      }
     }
   },
   {
@@ -2111,7 +2645,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.150984948307713, 50.36262032828471] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.150984948307713, 50.36262032828471]
+      }
     }
   },
   {
@@ -2119,7 +2656,10 @@
     "poznámka": { "cs": "V lesním porostu" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.94147374276108, 50.376871818279504] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.94147374276108, 50.376871818279504]
+      }
     }
   },
   {
@@ -2127,7 +2667,10 @@
     "poznámka": { "cs": "Na levém břehu Červeného potoka v blízkosti čp. 142" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.19108021986523, 50.312563078116064] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.19108021986523, 50.312563078116064]
+      }
     }
   },
   {
@@ -2137,7 +2680,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.718654630969585, 49.59072650640494] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.718654630969585, 49.59072650640494]
+      }
     }
   },
   {
@@ -2145,7 +2691,10 @@
     "poznámka": { "cs": "" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.012683824420424, 50.10607532478176] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.012683824420424, 50.10607532478176]
+      }
     }
   },
   {
@@ -2153,7 +2702,10 @@
     "poznámka": { "cs": "U cesty do údolí Šumného potoka" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.21029950721304, 50.200696351440705] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.21029950721304, 50.200696351440705]
+      }
     }
   },
   {
@@ -2163,7 +2715,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.33956842196574, 50.26396989569836] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.33956842196574, 50.26396989569836]
+      }
     }
   },
   {
@@ -2185,7 +2740,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.506619901344333, 49.75688206652597] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.506619901344333, 49.75688206652597]
+      }
     }
   },
   {
@@ -2195,7 +2753,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.24750687553058, 49.6964346517398] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.24750687553058, 49.6964346517398]
+      }
     }
   },
   {
@@ -2205,7 +2766,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.94107226382172, 50.008876498823064] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.94107226382172, 50.008876498823064]
+      }
     }
   },
   {
@@ -2215,7 +2779,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.14411955324344, 49.747087568310924] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.14411955324344, 49.747087568310924]
+      }
     }
   },
   {
@@ -2226,6 +2793,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.00163572017964, 49.516355493399935],
           [17.001804403356825, 49.516323414180356]
@@ -2240,7 +2808,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.00829983766288, 49.49449718620249] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.00829983766288, 49.49449718620249]
+      }
     }
   },
   {
@@ -2250,7 +2821,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.15065743715564, 49.95321293395171] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.15065743715564, 49.95321293395171]
+      }
     }
   },
   {
@@ -2260,7 +2834,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.906896411269383, 49.75173355713219] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.906896411269383, 49.75173355713219]
+      }
     }
   },
   {
@@ -2270,7 +2847,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.905157985423397, 49.75275451324321] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.905157985423397, 49.75275451324321]
+      }
     }
   },
   {
@@ -2280,7 +2860,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.79834061659601, 49.48815204450461] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.79834061659601, 49.48815204450461]
+      }
     }
   },
   {
@@ -2290,7 +2873,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.09698053933462, 50.13276995022715] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.09698053933462, 50.13276995022715]
+      }
     }
   },
   {
@@ -2300,7 +2886,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.14550945451386, 49.64565569373658] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.14550945451386, 49.64565569373658]
+      }
     }
   },
   {
@@ -2310,7 +2899,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.885462970570178, 49.684892658652124] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.885462970570178, 49.684892658652124]
+      }
     }
   },
   {
@@ -2320,7 +2912,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.894203213284317, 49.670168055312836] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.894203213284317, 49.670168055312836]
+      }
     }
   },
   {
@@ -2330,7 +2925,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.26633784982916, 49.60745096668362] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.26633784982916, 49.60745096668362]
+      }
     }
   },
   {
@@ -2340,7 +2938,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.160275232711218, 49.485091484660664] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.160275232711218, 49.485091484660664]
+      }
     }
   },
   {
@@ -2350,7 +2951,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.789339241917947, 49.90693607275414] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.789339241917947, 49.90693607275414]
+      }
     }
   },
   {
@@ -2358,7 +2962,10 @@
     "poznámka": { "cs": "V soukromé zahradě u čp. 16 (bývalá hájovna)" },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.32298785983414, 49.773443729652705] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.32298785983414, 49.773443729652705]
+      }
     }
   },
   {
@@ -2368,7 +2975,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.15841140208232, 49.47872052072831] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.15841140208232, 49.47872052072831]
+      }
     }
   },
   {
@@ -2378,7 +2988,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.34241070683301, 49.78696612554831] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.34241070683301, 49.78696612554831]
+      }
     }
   },
   {
@@ -2389,6 +3002,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.439369839714505, 49.774376535930095],
           [17.439283073981617, 49.77426808415199],
@@ -2404,7 +3018,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.196477888299032, 50.22916530960976] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.196477888299032, 50.22916530960976]
+      }
     }
   },
   {
@@ -2414,7 +3031,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.8751102221454, 49.88630753292674] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.8751102221454, 49.88630753292674]
+      }
     }
   },
   {
@@ -2424,7 +3044,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [17.351985320558708, 49.764916360748366] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [17.351985320558708, 49.764916360748366]
+      }
     }
   },
   {
@@ -2435,6 +3058,7 @@
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
     "umístění": {
       "geometrie": {
+        "Type": "LineString",
         "Coordinates": [
           [17.28459077063236, 49.808603518293204],
           [17.284576334983544, 49.808661844146975]
@@ -2449,7 +3073,10 @@
     },
     "typ_dřeviny": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
     "umístění": {
-      "geometrie": { "Coordinates": [16.77338748693774, 49.96432828124208] }
+      "geometrie": {
+        "Type": "Point",
+        "Coordinates": [16.77338748693774, 49.96432828124208]
+      }
     }
   }
 ]
